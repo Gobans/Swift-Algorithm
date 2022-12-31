@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		912CC29D295F20BB00D0D872 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 912CC29C295F20BB00D0D872 /* main.swift */; };
+		91375E1C296012BB00789573 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 912CC29C295F20BB00D0D872 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,6 +26,7 @@
 		912CC28D295F13EA00D0D872 /* SwiftAlgorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftAlgorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		912CC298295F144C00D0D872 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		912CC29C295F20BB00D0D872 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		91375E1A296003BC00789573 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 		912CC29A295F188C00D0D872 /* 고득점Kit */ = {
 			isa = PBXGroup;
 			children = (
+				91375E19296003AE00789573 /* 주식가격 */,
 				912CC29B295F18CE00D0D872 /* 베스트앨범 */,
 			);
 			name = "고득점Kit";
@@ -88,6 +90,15 @@
 			);
 			name = "베스트앨범";
 			path = "베스트앨범";
+			sourceTree = "<group>";
+		};
+		91375E19296003AE00789573 /* 주식가격 */ = {
+			isa = PBXGroup;
+			children = (
+				91375E1A296003BC00789573 /* main.swift */,
+			);
+			name = "주식가격";
+			path = "주식가격";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -148,7 +159,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				912CC29D295F20BB00D0D872 /* main.swift in Sources */,
+				91375E1C296012BB00789573 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
