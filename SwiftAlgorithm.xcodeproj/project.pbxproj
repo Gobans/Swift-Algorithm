@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		9115529F29630F4400BD06FA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9115529E29630F4400BD06FA /* main.swift */; };
+		91E46A06296443D4007B79DC /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A05296443D4007B79DC /* Heap.swift */; };
+		91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A0229644355007B79DC /* PriorityQueue.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +31,8 @@
 		91375E1A296003BC00789573 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91BE85AE2961A20A0006E79F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91BE85B02961B03D0006E79F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		91E46A0229644355007B79DC /* PriorityQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriorityQueue.swift; sourceTree = "<group>"; };
+		91E46A05296443D4007B79DC /* Heap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heap.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +75,7 @@
 		912CC28F295F13EA00D0D872 /* SwiftAlgorithm */ = {
 			isa = PBXGroup;
 			children = (
+				91E46A01296442F3007B79DC /* DataStrcutre */,
 				912CC297295F140600D0D872 /* Programmers */,
 			);
 			path = SwiftAlgorithm;
@@ -121,6 +126,15 @@
 			);
 			name = "기능개발";
 			path = "기능개발";
+			sourceTree = "<group>";
+		};
+		91E46A01296442F3007B79DC /* DataStrcutre */ = {
+			isa = PBXGroup;
+			children = (
+				91E46A0229644355007B79DC /* PriorityQueue.swift */,
+				91E46A05296443D4007B79DC /* Heap.swift */,
+			);
+			path = DataStrcutre;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -183,6 +197,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				9115529F29630F4400BD06FA /* main.swift in Sources */,
+				91E46A06296443D4007B79DC /* Heap.swift in Sources */,
+				91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
