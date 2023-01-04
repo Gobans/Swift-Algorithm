@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9115529F29630F4400BD06FA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9115529E29630F4400BD06FA /* main.swift */; };
 		91E46A06296443D4007B79DC /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A05296443D4007B79DC /* Heap.swift */; };
 		91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A0229644355007B79DC /* PriorityQueue.swift */; };
 /* End PBXBuildFile section */
@@ -28,6 +27,7 @@
 		9115529E29630F4400BD06FA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		912CC28D295F13EA00D0D872 /* SwiftAlgorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftAlgorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		912CC298295F144C00D0D872 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		913609152965A26F0051DD8E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91375E1A296003BC00789573 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91BE85AE2961A20A0006E79F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91BE85B02961B03D0006E79F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -92,6 +92,7 @@
 		912CC29A295F188C00D0D872 /* 고득점Kit */ = {
 			isa = PBXGroup;
 			children = (
+				913609142965A25E0051DD8E /* 디스크 컨트롤러 */,
 				9115529D29630F3600BD06FA /* 더 맵게 */,
 				91BE85AD2961A1FE0006E79F /* 기능개발 */,
 				91375E19296003AE00789573 /* 주식가격 */,
@@ -108,6 +109,15 @@
 			);
 			name = "베스트앨범";
 			path = "베스트앨범";
+			sourceTree = "<group>";
+		};
+		913609142965A25E0051DD8E /* 디스크 컨트롤러 */ = {
+			isa = PBXGroup;
+			children = (
+				913609152965A26F0051DD8E /* main.swift */,
+			);
+			name = "디스크 컨트롤러";
+			path = "디스크 컨트롤러";
 			sourceTree = "<group>";
 		};
 		91375E19296003AE00789573 /* 주식가격 */ = {
@@ -196,7 +206,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9115529F29630F4400BD06FA /* main.swift in Sources */,
 				91E46A06296443D4007B79DC /* Heap.swift in Sources */,
 				91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */,
 			);
