@@ -14,8 +14,8 @@
 <br>
 | <center>순번</center> | <center>날짜</center> | <center>이름</center> |  <center>소스코드</center> |
 |:--------:|:--------:|:--------:|:--------:|
-|1|**<center>2022.01.03</center>** | 힙 | <center>[코드](https://www.acmicpc.net/problem/1874) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/Heap.swift)* |
-|2|**<center>2022.01.03</center>** | 우선순위 큐 | <center>[코드](https://www.acmicpc.net/problem/1874) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/Heap.swift)* |
+|1|**<center>2022.01.03</center>** | 힙 | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/Heap.swift) </center>|
+|2|**<center>2022.01.03</center>** | 우선순위 큐 | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/PriorityQueue.swift) </center>|
 
 <br>
 
