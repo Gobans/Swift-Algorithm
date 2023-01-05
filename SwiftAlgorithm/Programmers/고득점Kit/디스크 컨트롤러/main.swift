@@ -7,6 +7,7 @@
 
 import Foundation
 
+/* `sort`
 func solution(_ jobs:[[Int]]) -> Int {
     var now = 0
     var totalTime = 0
@@ -29,3 +30,34 @@ func solution(_ jobs:[[Int]]) -> Int {
     }
     return totalTime / jobs.count
 }
+*/
+
+/* `heap`
+func solution(_ jobs:[[Int]]) -> Int {
+    var now = 0
+    var totalTime = 0
+    var cJobs = jobs
+    var sortedJobs = Heap (sort: { (lhs: [Int], rhs: [Int]) in
+        return (lhs[1], lhs[0]) < (rhs[1], rhs[0])
+    })
+    while !cJobs.isEmpty || !sortedJobs.isEmpty {
+        var tempJobs: [[Int]] = []
+        for job in cJobs {
+            if job[0] <= now {
+                sortedJobs.insert(job)
+            } else {
+                tempJobs.append(job)
+            }
+        }
+        cJobs = tempJobs
+        if !sortedJobs.isEmpty {
+            let job = sortedJobs.remove()!
+            now += job[1]
+            totalTime += now - job[0]
+        } else {
+            now += 1
+        }
+    }
+    return totalTime / jobs.count
+}
+ */
