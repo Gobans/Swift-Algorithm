@@ -102,17 +102,17 @@ struct Heap<Element: Equatable> {
         while true {
             let left = leftChildIndex(ofParentAt: parent)
             let right = rightChildIndex(ofParentAt: parent)
-            var candidate = parent // 4
+            var candidate = parent
             if left < count && sort(elements[left], elements[candidate]){
-                candidate = left // 5
+                candidate = left
             }
             if right < count && sort(elements[right], elements[candidate]) {
-                candidate = right // 6
+                candidate = right
             }
             if candidate == parent {
-                return // 7
+                return
             }
-        elements.swapAt(parent, candidate) // 8
+        elements.swapAt(parent, candidate)
         parent = candidate
         }
     }
