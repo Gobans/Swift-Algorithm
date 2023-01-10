@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		91408DE9296D8E16006A52E1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91408DE8296D8E16006A52E1 /* main.swift */; };
 		91E46A06296443D4007B79DC /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A05296443D4007B79DC /* Heap.swift */; };
 		91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A0229644355007B79DC /* PriorityQueue.swift */; };
-		91FC2358296C2410000F59FB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91FC2357296C2410000F59FB /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,6 +30,7 @@
 		912CC298295F144C00D0D872 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		913609152965A26F0051DD8E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91375E1A296003BC00789573 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		91408DE8296D8E16006A52E1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9168C5B229684B7B00F44817 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9186E8D2296A93770008DF6A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91BE85AE2961A20A0006E79F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -98,6 +99,7 @@
 		912CC29A295F188C00D0D872 /* 고득점Kit */ = {
 			isa = PBXGroup;
 			children = (
+				91408DE7296D8E0C006A52E1 /* 모의고사 */,
 				91FC2356296C2401000F59FB /* 최소직사각형 */,
 				9186E8D1296A936A0008DF6A /* H-Index */,
 				91E4770F29695C1A006DB848 /* 가장 큰 수 */,
@@ -138,6 +140,15 @@
 			);
 			name = "주식가격";
 			path = "주식가격";
+			sourceTree = "<group>";
+		};
+		91408DE7296D8E0C006A52E1 /* 모의고사 */ = {
+			isa = PBXGroup;
+			children = (
+				91408DE8296D8E16006A52E1 /* main.swift */,
+			);
+			name = "모의고사";
+			path = "모의고사";
 			sourceTree = "<group>";
 		};
 		9168C5B129684B6B00F44817 /* 이중우선순위큐 */ = {
@@ -263,7 +274,7 @@
 			files = (
 				91E46A06296443D4007B79DC /* Heap.swift in Sources */,
 				91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */,
-				91FC2358296C2410000F59FB /* main.swift in Sources */,
+				91408DE9296D8E16006A52E1 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
