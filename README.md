@@ -39,7 +39,9 @@
 <br>
 
 ### 🛠️ 메소드
-<br>
+
+<br/>
+
 | <center>순번</center> | <center>날짜</center> | <center>이름</center> |  <center>소스코드</center> |
 |:--------:|:--------:|:--------:|:--------:|
 |1|**<center>2022.01.12</center>** | 순열 | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Method/Permutation.swift) </center>|
