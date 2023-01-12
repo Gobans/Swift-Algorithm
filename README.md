@@ -37,3 +37,11 @@
 |11|**<center>2023.01.10</center>** | 완전탐색 | <center>[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/모의고사/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/모의고사/)*|✅|
 |12|**<center>2023.01.11</center>** | 완전탐색 | <center>[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/소수%20찾기/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/소수%20찾기/)*|✅|
 <br>
+
+### 🛠️ 메소드
+*<span style="color:red"></span>
+<br>
+| <center>순번</center> | <center>날짜</center> | <center>이름</center> |  <center>소스코드</center> |
+|:--------:|:--------:|:--------:|:--------:|
+|1|**<center>2022.01.12</center>** | 순열 | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Method/Permutation.swift) </center>|
+|2|**<center>2022.01.12</center>** | 조합 | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Method/Combination.swift) </center>|

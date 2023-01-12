@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		91408DE9296D8E16006A52E1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91408DE8296D8E16006A52E1 /* main.swift */; };
+		91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B58296EEBD7001EF1B4 /* Combination.swift */; };
+		91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B5A296EF561001EF1B4 /* Permutation.swift */; };
 		91E46A06296443D4007B79DC /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A05296443D4007B79DC /* Heap.swift */; };
 		91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A0229644355007B79DC /* PriorityQueue.swift */; };
 /* End PBXBuildFile section */
@@ -32,6 +33,9 @@
 		91375E1A296003BC00789573 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91408DE8296D8E16006A52E1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9168C5B229684B7B00F44817 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		91852B55296EDFFA001EF1B4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		91852B58296EEBD7001EF1B4 /* Combination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combination.swift; sourceTree = "<group>"; };
+		91852B5A296EF561001EF1B4 /* Permutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Permutation.swift; sourceTree = "<group>"; };
 		9186E8D2296A93770008DF6A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91BE85AE2961A20A0006E79F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91BE85B02961B03D0006E79F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -82,6 +86,7 @@
 		912CC28F295F13EA00D0D872 /* SwiftAlgorithm */ = {
 			isa = PBXGroup;
 			children = (
+				91852B57296EEAC0001EF1B4 /* Method */,
 				91E46A01296442F3007B79DC /* DataStrcutre */,
 				912CC297295F140600D0D872 /* Programmers */,
 			);
@@ -99,6 +104,7 @@
 		912CC29A295F188C00D0D872 /* 고득점Kit */ = {
 			isa = PBXGroup;
 			children = (
+				91852B54296EDFF0001EF1B4 /* 소수 찾기 */,
 				91408DE7296D8E0C006A52E1 /* 모의고사 */,
 				91FC2356296C2401000F59FB /* 최소직사각형 */,
 				9186E8D1296A936A0008DF6A /* H-Index */,
@@ -158,6 +164,24 @@
 			);
 			name = "이중우선순위큐";
 			path = "이중우선순위큐";
+			sourceTree = "<group>";
+		};
+		91852B54296EDFF0001EF1B4 /* 소수 찾기 */ = {
+			isa = PBXGroup;
+			children = (
+				91852B55296EDFFA001EF1B4 /* main.swift */,
+			);
+			name = "소수 찾기";
+			path = "소수 찾기";
+			sourceTree = "<group>";
+		};
+		91852B57296EEAC0001EF1B4 /* Method */ = {
+			isa = PBXGroup;
+			children = (
+				91852B58296EEBD7001EF1B4 /* Combination.swift */,
+				91852B5A296EF561001EF1B4 /* Permutation.swift */,
+			);
+			path = Method;
 			sourceTree = "<group>";
 		};
 		9186E8D1296A936A0008DF6A /* H-Index */ = {
@@ -274,7 +298,8 @@
 			files = (
 				91E46A06296443D4007B79DC /* Heap.swift in Sources */,
 				91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */,
-				91408DE9296D8E16006A52E1 /* main.swift in Sources */,
+				91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */,
+				91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
