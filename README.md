@@ -39,7 +39,6 @@
 <br>
 
 ### 🛠️ 메소드
-*<span style="color:red"></span>
 <br>
 | <center>순번</center> | <center>날짜</center> | <center>이름</center> |  <center>소스코드</center> |
 |:--------:|:--------:|:--------:|:--------:|
