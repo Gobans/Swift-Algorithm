@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B58296EEBD7001EF1B4 /* Combination.swift */; };
 		91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B5A296EF561001EF1B4 /* Permutation.swift */; };
+		91D42F43297094D8002C826D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91D42F42297094D8002C826D /* main.swift */; };
 		91E46A06296443D4007B79DC /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A05296443D4007B79DC /* Heap.swift */; };
 		91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A0229644355007B79DC /* PriorityQueue.swift */; };
 /* End PBXBuildFile section */
@@ -39,6 +40,7 @@
 		9186E8D2296A93770008DF6A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91BE85AE2961A20A0006E79F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91BE85B02961B03D0006E79F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		91D42F42297094D8002C826D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91E46A0229644355007B79DC /* PriorityQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriorityQueue.swift; sourceTree = "<group>"; };
 		91E46A05296443D4007B79DC /* Heap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heap.swift; sourceTree = "<group>"; };
 		91E4770D2969497D006DB848 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 		912CC29A295F188C00D0D872 /* 고득점Kit */ = {
 			isa = PBXGroup;
 			children = (
+				91D42F41297094C9002C826D /* 카펫 */,
 				91852B54296EDFF0001EF1B4 /* 소수 찾기 */,
 				91408DE7296D8E0C006A52E1 /* 모의고사 */,
 				91FC2356296C2401000F59FB /* 최소직사각형 */,
@@ -201,6 +204,14 @@
 			path = "기능개발";
 			sourceTree = "<group>";
 		};
+		91D42F41297094C9002C826D /* 카펫 */ = {
+			isa = PBXGroup;
+			children = (
+				91D42F42297094D8002C826D /* main.swift */,
+			);
+			path = "카펫";
+			sourceTree = "<group>";
+		};
 		91E46A01296442F3007B79DC /* DataStrcutre */ = {
 			isa = PBXGroup;
 			children = (
@@ -216,7 +227,7 @@
 				91E4770D2969497D006DB848 /* main.swift */,
 			);
 			name = "K번째수";
-			path = "정";
+			path = "K번째수";
 			sourceTree = "<group>";
 		};
 		91E4770F29695C1A006DB848 /* 가장 큰 수 */ = {
@@ -297,6 +308,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				91E46A06296443D4007B79DC /* Heap.swift in Sources */,
+				91D42F43297094D8002C826D /* main.swift in Sources */,
 				91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */,
 				91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */,
 				91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */,
