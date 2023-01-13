@@ -7,10 +7,42 @@
 
 import Foundation
 
+// stack
+struct Carpet {
+    let brown: Int
+    let yellow: Int
+    let width: Int
+    let height: Int
+}
+
 func solution(_ brown:Int, _ yellow:Int) -> [Int] {
-    // 가로, 세로를 늘리는 동작을 반복하여 만족하는 brown, yellow의 갯수를 찾는다. (가로 >= 세로 일때 세로를 늘림)
-    // 가로로 늘리는 동작: yellow + 1*(height-2), brown + 2
-    // 세로로 늘리는 동작: yellow + i*(width-2), brown + 2*n
+    var answer: [Int] = []
+    var searchStack: [Carpet] = []
+    searchStack.append(Carpet(brown: 8, yellow: 1, width: 3, height: 3))
+
+    while !searchStack.isEmpty {
+        let carpet = searchStack.removeLast()
+        if carpet.brown == brown, carpet.yellow == yellow {
+            return [carpet.width, carpet.height]
+        }
+        if carpet.brown >= brown || carpet.yellow >= yellow {
+            continue
+        }
+        if carpet.width > carpet.height {
+            for i in 1...carpet.width - carpet.height {
+                if (carpet.brown + (2*i) == brown) && (carpet.yellow + i*(carpet.width-2) == yellow){
+                    return [carpet.width, carpet.height + i]
+                }
+            }
+        }
+        searchStack.append(Carpet(brown: carpet.brown + 2, yellow: carpet.yellow + carpet.height - 2, width: carpet.width + 1, height: carpet.height))
+    }
+    return answer
+}
+
+
+/* 재귀
+func solution(_ brown:Int, _ yellow:Int) -> [Int] {
     var answer: [Int] = []
     func searchCarpet(curBrown: Int, curYellow: Int, width: Int, height: Int) {
         if curBrown == brown && curYellow == yellow {
@@ -20,9 +52,7 @@ func solution(_ brown:Int, _ yellow:Int) -> [Int] {
         if curBrown >= brown || curYellow >= yellow {
             return
         }
-        // 가로로 늘리기
         searchCarpet(curBrown: curBrown + 2, curYellow: curYellow + height-2, width: width + 1, height: height)
-        // 세로로 늘리기
         if width > height {
             for i in 1...width - height {
                 if (curBrown + (2*i) == brown) && (curYellow + i*(width-2) == yellow) {
@@ -35,3 +65,4 @@ func solution(_ brown:Int, _ yellow:Int) -> [Int] {
     searchCarpet(curBrown: 8, curYellow: 1, width: 3, height: 3)
     return answer
 }
+ */
