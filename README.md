@@ -37,6 +37,7 @@
 |11|**<center>2023.01.10</center>** | 완전탐색 | <center>[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/모의고사/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/모의고사/)*|✅|
 |12|**<center>2023.01.11</center>** | 완전탐색 | <center>[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/소수%20찾기/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/소수%20찾기/)*|✅|
 |13|**<center>2023.01.13</center>** | 완전탐색 | <center>[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/카펫/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/카펫/)*|✅|
+|14|**<center>2023.01.15</center>** | 완전탐색 | <center>[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/피로도/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/피로도/)*|✅|
 <br>
 
 ### 🛠️ 메소드

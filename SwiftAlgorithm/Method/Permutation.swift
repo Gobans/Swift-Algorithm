@@ -7,7 +7,7 @@
 
 import Foundation
 
-func permutation<T: Comparable>(_ array: [T], _ targetNum: Int) -> [[T]] {
+func permutation<T>(_ array: [T], _ targetNum: Int) -> [[T]] {
     var result = [[T]]()
     var visited = [Bool](repeating: false, count: array.count)
     
