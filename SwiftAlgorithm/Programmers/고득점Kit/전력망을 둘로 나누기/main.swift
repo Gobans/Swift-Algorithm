@@ -7,12 +7,10 @@
 
 import Foundation
 
+// BFS
 func solution(_ n:Int, _ wires:[[Int]]) -> Int {
-    // DFS, 전선을 하나 끊었을 떄 하나의 간선이 몇개 이어져있는지 확인
-    // 전체 송전탑 - 이어진 송전탑 = 또 다른 송전탑의 갯수
-    // 두개의 송전탑 개수의 차이
     var minDiff = 100
-    func BFS(towerGraph: [[Bool]], k: Int) {
+    func BFS(towerGraph: [[Bool]]) {
         var visited = Array(repeating: false, count: n + 1)
         var stack: [Int] = []
         stack.append(1)
@@ -44,8 +42,45 @@ func solution(_ n:Int, _ wires:[[Int]]) -> Int {
             towerGraph[startPoint][endPoint] = true
             towerGraph[endPoint][startPoint] = true
         }
-        BFS(towerGraph: towerGraph, k: i + 1)
+        BFS(towerGraph: towerGraph)
     }
-    
+
     return minDiff
 }
+
+/* DFS
+func solution(_ n:Int, _ wires:[[Int]]) -> Int {
+    var minDiff = 100
+    func DFS(towerGraph: [[Bool]], lineIndex: Int, visited: inout [Bool], towerCount: inout Int) {
+        for i in 1...n {
+            if !visited[i] && towerGraph[lineIndex][i] {
+                visited[i] = true
+                towerCount += 1
+                DFS(towerGraph: towerGraph, lineIndex: i, visited: &visited, towerCount: &towerCount)
+            }
+        }
+    }
+    for i in 0..<wires.count {
+        var cWires = wires
+        cWires.remove(at: i)
+        let towerGraphLine = Array(repeating: false, count: n + 1)
+        var towerGraph: [[Bool]] = Array(repeating: towerGraphLine, count: n + 1)
+        for wire in cWires {
+            let startPoint = wire[0]
+            let endPoint = wire[1]
+            towerGraph[startPoint][endPoint] = true
+            towerGraph[endPoint][startPoint] = true
+        }
+        var visited = Array(repeating: false, count: n + 1)
+        var towerCount = 0
+        DFS(towerGraph: towerGraph, lineIndex: 1, visited: &visited, towerCount: &towerCount)
+        let secondTowers = n - towerCount
+        let diff = abs(towerCount - secondTowers)
+        if diff < minDiff {
+            minDiff = diff
+        }
+    }
+
+    return minDiff
+}
+ */
