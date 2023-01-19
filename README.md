@@ -39,6 +39,8 @@
 |13|**<center>2023.01.13</center>** | 완전탐색 | <center>[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/카펫/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/카펫/)*|✅|
 |14|**<center>2023.01.15</center>** | 완전탐색 | <center>[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/피로도/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/피로도/)*|✅|
 |15|**<center>2023.01.17</center>** | 완전탐색 | <center>[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/전력망을%20둘로%20나누기/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/전력망을%20둘로%20나누기/)*|✅|
+|16|**<center>2023.01.18</center>** | 완전탐색 | <center>[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/모음사전/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/모음사전/)*|✅|
+|17|**<center>2023.01.19</center>** | 그리디 | <center>[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/체육복/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/체육복/)*|✅|
 <br>
 
 ### 🛠️ 메소드

@@ -7,7 +7,6 @@
 
 import Foundation
 
-var wordDict = [String:Int]()
 var count = 0
 var isSearched = false
 

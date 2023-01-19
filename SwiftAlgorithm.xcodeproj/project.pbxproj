@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		91833408297820E400A0517C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91833407297820E400A0517C /* main.swift */; };
+		911A199A29796E7C00AEA1DA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 911A199929796E7C00AEA1DA /* main.swift */; };
 		91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B58296EEBD7001EF1B4 /* Combination.swift */; };
 		91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B5A296EF561001EF1B4 /* Permutation.swift */; };
 		91E46A06296443D4007B79DC /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A05296443D4007B79DC /* Heap.swift */; };
@@ -28,6 +28,7 @@
 
 /* Begin PBXFileReference section */
 		9115529E29630F4400BD06FA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		911A199929796E7C00AEA1DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		912CC28D295F13EA00D0D872 /* SwiftAlgorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftAlgorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		912CC298295F144C00D0D872 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		912CE70029727E910004B827 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -77,6 +78,15 @@
 			path = "더 맵게";
 			sourceTree = "<group>";
 		};
+		911A199829796E7300AEA1DA /* 체육복 */ = {
+			isa = PBXGroup;
+			children = (
+				911A199929796E7C00AEA1DA /* main.swift */,
+			);
+			name = "체육복";
+			path = "체육복";
+			sourceTree = "<group>";
+		};
 		912CC284295F13EA00D0D872 = {
 			isa = PBXGroup;
 			children = (
@@ -116,6 +126,7 @@
 		912CC29A295F188C00D0D872 /* 고득점Kit */ = {
 			isa = PBXGroup;
 			children = (
+				911A199829796E7300AEA1DA /* 체육복 */,
 				91833406297820D600A0517C /* 모음사전 */,
 				9164AA39297592F200B2D70B /* 전력망을 둘로 나누기 */,
 				915373862974243000885D95 /* 피로도 */,
@@ -396,7 +407,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				91E46A06296443D4007B79DC /* Heap.swift in Sources */,
-				91833408297820E400A0517C /* main.swift in Sources */,
+				911A199A29796E7C00AEA1DA /* main.swift in Sources */,
 				91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */,
 				91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */,
 				91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */,
