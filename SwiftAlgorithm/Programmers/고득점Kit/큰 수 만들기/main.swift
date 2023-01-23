@@ -23,7 +23,7 @@ func solution(_ number:String, _ k:Int) -> String {
     return String(stack)
 }
 
-/* BFS
+/* BFS 시간초과
 func solution(_ number:String, _ k:Int) -> String {
     let numberArray = number.map{ String($0) }
     let pickNum = numberArray.count - k
