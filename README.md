@@ -42,6 +42,7 @@
 |16|**<center>2023.01.18</center>** | 완전탐색 | <center>[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/모음사전/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/모음사전/)*|✅|
 |17|**<center>2023.01.19</center>** | 그리디 | <center>[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/체육복/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/체육복/)*|✅|
 |18|**<center>2023.01.21</center>** | 그리디 | <center>[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/조이스틱/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/조이스틱/)*|✅|
+|19|**<center>2023.01.23</center>** | 그리디 | <center>[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/큰%20수%20만들기/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/큰%20수%20만들기/)*|✅|
 <br>
 
 ### 🛠️ 메소드

@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B58296EEBD7001EF1B4 /* Combination.swift */; };
 		91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B5A296EF561001EF1B4 /* Permutation.swift */; };
-		91C9F17C297D7F8E0096A481 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91C9F17B297D7F8E0096A481 /* main.swift */; };
 		91E46A06296443D4007B79DC /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A05296443D4007B79DC /* Heap.swift */; };
 		91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A0229644355007B79DC /* PriorityQueue.swift */; };
 /* End PBXBuildFile section */
@@ -429,7 +428,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				91E46A06296443D4007B79DC /* Heap.swift in Sources */,
-				91C9F17C297D7F8E0096A481 /* main.swift in Sources */,
 				91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */,
 				91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */,
 				91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */,
