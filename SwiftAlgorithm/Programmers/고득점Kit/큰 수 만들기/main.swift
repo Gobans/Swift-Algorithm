@@ -23,16 +23,15 @@ func solution(_ number:String, _ k:Int) -> String {
     return String(stack)
 }
 
-/* BFS 시간초과
+/* BFS
 func solution(_ number:String, _ k:Int) -> String {
-    // number 의 개수 - k 만큼 뽑았을 때 가장 큰 수
     let numberArray = number.map{ String($0) }
     let pickNum = numberArray.count - k
     var maxNum = 0
     var queue: [NumberInfo] = []
     queue.append(NumberInfo(numberString: "", startIndex: 0))
     while !queue.isEmpty {
-        let numberInfo = queue.removeLast()
+        let numberInfo = queue.removeFirst()
         if numberInfo.numberString.count == pickNum {
             if let perNum = Int(numberInfo.numberString) {
                 maxNum = max(perNum, maxNum)
