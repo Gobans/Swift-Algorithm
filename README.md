@@ -45,6 +45,7 @@
 |19|**<center>2023.01.23</center>** | 그리디 | <center>[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/큰%20수%20만들기/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/큰%20수%20만들기/)*|✅|
 |20|**<center>2023.01.24</center>** | 그리디 | <center>[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/구명보트/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/구명보트/)*|✅|
 |21|**<center>2023.01.25</center>** | 그리디 | <center>[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/섬%20연결하기/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/섬%20연결하기/)*|한번 더 확인|
+|22|**<center>2023.01.26</center>** | 그리디 | <center>[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884?language=python3) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/단속카메라/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/단속카메라/)*|✅|
 <br>
 
 ### 🛠️ 메소드
