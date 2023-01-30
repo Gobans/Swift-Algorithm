@@ -48,6 +48,7 @@
 |22|**<center>2023.01.26</center>** | 그리디 | <center>[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884?language=python3) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/단속카메라/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/단속카메라/)*|✅|
 |23|**<center>2023.01.27</center>** | DP | <center>[N으로  표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/N으로%20표현/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/N으로%20표현/)*|✅|
 |24|**<center>2023.01.29</center>** | DP | <center>[정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105?language=python3) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/정수%20삼각형/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/정수%20삼각형/)*|✅|
+|25|**<center>2023.01.30</center>** | DP | <center>[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/등굣길/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/등굣길/)*|✅|
 <br>
 
 ### 🛠️ 메소드
