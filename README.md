@@ -50,6 +50,7 @@
 |24|**<center>2023.01.29</center>** | DP | <center>[정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105?language=python3) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/정수%20삼각형/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/정수%20삼각형/)*|✅|
 |25|**<center>2023.01.30</center>** | DP | <center>[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/등굣길/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/등굣길/)*|✅|
 |26|**<center>2023.01.31</center>** | DP | <center>[사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/사칙연산/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/사칙연산/)*|❌ [1](https://velog.io/@longroadhome/프로그래머스-LV.4-사칙연산) [2](https://tiktaek.tistory.com/33) 다시한번 체크|
+|27|**<center>2023.2.01</center>** | DP | <center>[도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897?language=python3) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/도둑질/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/도둑질/)*|✅|
 <br>
 
 ### 🛠️ 메소드

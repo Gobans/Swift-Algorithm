@@ -8,7 +8,7 @@
 import Foundation
 
 func solution(_ input_array:[String]) -> Int {
-    var arr = input_array
+    let arr = input_array
     var minValue = 0
     var maxValue = 0
     var sumValue = 0
