@@ -52,6 +52,7 @@
 |26|**<center>2023.01.31</center>** | DP | <center>[사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/사칙연산/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/사칙연산/)*|❌ [1](https://velog.io/@longroadhome/프로그래머스-LV.4-사칙연산) [2](https://tiktaek.tistory.com/33) 다시한번 체크|
 |27|**<center>2023.02.01</center>** | DP | <center>[도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897?language=python3) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/도둑질/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/도둑질/)*|✅|
 |28|**<center>2023.02.02</center>** | DFS/BFS | <center>[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/게임%20맵%20최단거리/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/게임%20맵%20최단거리/)*|✅|
+|29|**<center>2023.02.03</center>** | DFS/BFS | <center>[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/네트워크/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/네트워크/)*|✅|
 <br>
 
 ### 🛠️ 메소드

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9183F699298CABA800A24C35 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9183F698298CABA800A24C35 /* main.swift */; };
 		91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B58296EEBD7001EF1B4 /* Combination.swift */; };
 		91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B5A296EF561001EF1B4 /* Permutation.swift */; };
 		91E46A06296443D4007B79DC /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A05296443D4007B79DC /* Heap.swift */; };
@@ -46,6 +47,7 @@
 		9164AA3A2975930000B2D70B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9168C5B229684B7B00F44817 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91833407297820E400A0517C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9183F698298CABA800A24C35 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91852B55296EDFFA001EF1B4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91852B58296EEBD7001EF1B4 /* Combination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combination.swift; sourceTree = "<group>"; };
 		91852B5A296EF561001EF1B4 /* Permutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Permutation.swift; sourceTree = "<group>"; };
@@ -136,6 +138,7 @@
 		912CC29A295F188C00D0D872 /* 고득점Kit */ = {
 			isa = PBXGroup;
 			children = (
+				9183F697298CABA100A24C35 /* 네트워크 */,
 				91E3C5D1298C025C00FF910F /* 게임 맵 최단거리 */,
 				9162686D298A169800C83184 /* 도둑질 */,
 				91ADDDEC29892BA20051AEC6 /* 사칙연산 */,
@@ -295,6 +298,15 @@
 			);
 			name = "모음사전";
 			path = "모음사전";
+			sourceTree = "<group>";
+		};
+		9183F697298CABA100A24C35 /* 네트워크 */ = {
+			isa = PBXGroup;
+			children = (
+				9183F698298CABA800A24C35 /* main.swift */,
+			);
+			name = "네트워크";
+			path = "네트워크";
 			sourceTree = "<group>";
 		};
 		91852B54296EDFF0001EF1B4 /* 소수 찾기 */ = {
@@ -527,6 +539,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				91E46A06296443D4007B79DC /* Heap.swift in Sources */,
+				9183F699298CABA800A24C35 /* main.swift in Sources */,
 				91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */,
 				91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */,
 				91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */,
