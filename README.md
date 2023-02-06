@@ -16,6 +16,7 @@
 |:--------:|:--------:|:--------:|:--------:|
 |1|**<center>2022.01.03</center>** | 힙 | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/Heap.swift) </center>|
 |2|**<center>2022.01.03</center>** | 우선순위 큐 | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/PriorityQueue.swift) </center>|
+|3|**<center>2022.02.06</center>** | 효율적인 큐 | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/EffectiveQueue.swift) </center>|
 
 <br>
 
