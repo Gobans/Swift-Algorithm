@@ -56,7 +56,7 @@
 |29|**<center>2023.02.03</center>** | DFS/BFS | <center>[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/네트워크/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/네트워크/)*|✅|
 |30|**<center>2023.02.04</center>** | DFS/BFS | <center>[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=swift) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/단어%20변환/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/단어%20변환/)*|✅|
 |31|**<center>2023.02.05</center>** | DFS/BFS | <center>[여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/여행경로/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/여행경로/)*|✅|
-|32|**<center>2023.02.06</center>** | DFS/BFS | <center>[타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/타겟넘버/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/타겟넘버/)*|✅|
+|32|**<center>2023.02.06</center>** | DFS/BFS | <center>[타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/타겟%20넘버/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/타겟%20넘버/)*|✅|
 <br>
 
 ### 🛠️ 메소드
