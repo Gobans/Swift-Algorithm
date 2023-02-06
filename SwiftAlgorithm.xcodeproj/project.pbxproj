@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9113D47029913FBF0068DAFA /* EffectiveQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9113D46F29913FBF0068DAFA /* EffectiveQueue.swift */; };
 		91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B58296EEBD7001EF1B4 /* Combination.swift */; };
 		91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B5A296EF561001EF1B4 /* Permutation.swift */; };
-		91D697C8298FB31C00C855F5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91D697C7298FB31C00C855F5 /* main.swift */; };
 		91E46A06296443D4007B79DC /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A05296443D4007B79DC /* Heap.swift */; };
 		91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A0229644355007B79DC /* PriorityQueue.swift */; };
 /* End PBXBuildFile section */
@@ -27,6 +27,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		9113D46D299134B70068DAFA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9113D46F29913FBF0068DAFA /* EffectiveQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EffectiveQueue.swift; sourceTree = "<group>"; };
 		9115529E29630F4400BD06FA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		911A199929796E7C00AEA1DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		912CC28D295F13EA00D0D872 /* SwiftAlgorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftAlgorithm; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -83,6 +85,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9113D46C299134AD0068DAFA /* 타겟 넘버 */ = {
+			isa = PBXGroup;
+			children = (
+				9113D46D299134B70068DAFA /* main.swift */,
+			);
+			name = "타겟 넘버";
+			path = "타겟 넘버";
+			sourceTree = "<group>";
+		};
 		9115529D29630F3600BD06FA /* 더 맵게 */ = {
 			isa = PBXGroup;
 			children = (
@@ -140,6 +151,7 @@
 		912CC29A295F188C00D0D872 /* 고득점Kit */ = {
 			isa = PBXGroup;
 			children = (
+				9113D46C299134AD0068DAFA /* 타겟 넘버 */,
 				91D697C6298FB30F00C855F5 /* 여행경로 */,
 				91978365298E44630049171B /* 단어 변환 */,
 				9183F697298CABA100A24C35 /* 네트워크 */,
@@ -470,6 +482,7 @@
 			children = (
 				91E46A0229644355007B79DC /* PriorityQueue.swift */,
 				91E46A05296443D4007B79DC /* Heap.swift */,
+				9113D46F29913FBF0068DAFA /* EffectiveQueue.swift */,
 			);
 			path = DataStrcutre;
 			sourceTree = "<group>";
@@ -561,7 +574,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				91E46A06296443D4007B79DC /* Heap.swift in Sources */,
-				91D697C8298FB31C00C855F5 /* main.swift in Sources */,
+				9113D47029913FBF0068DAFA /* EffectiveQueue.swift in Sources */,
 				91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */,
 				91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */,
 				91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */,
