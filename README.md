@@ -14,9 +14,12 @@
 <br>
 | <center>순번</center> | <center>날짜</center> | <center>이름</center> |  <center>소스코드</center> |
 |:--------:|:--------:|:--------:|:--------:|
-|1|**<center>2022.01.03</center>** | 힙 | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/Heap.swift) </center>|
-|2|**<center>2022.01.03</center>** | 우선순위 큐 | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/PriorityQueue.swift) </center>|
-|3|**<center>2022.02.06</center>** | 효율적인 큐 | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/EffectiveQueue.swift) </center>|
+|1|**<center>2022.01.03</center>** | Heap | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/Heap.swift) </center>|
+|2|**<center>2022.01.03</center>** | PriorityQueue | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/PriorityQueue.swift) </center>|
+|3|**<center>2022.02.06</center>** | EffectiveQueue | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/EffectiveQueue.swift) </center>|
+|4|**<center>2022.02.06</center>** | LinkedQueue | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/LinkedQueue.swift) </center>|
+|5|**<center>2022.02.06</center>** | RingBufferQueue | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/RingBufferQueue.swift) </center>|
+|6|**<center>2022.02.06</center>** | DoubleStackQueue | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/DoubleStackQueue.swift) </center>|
 
 <br>
 
