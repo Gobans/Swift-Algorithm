@@ -20,6 +20,8 @@
 |4|**<center>2022.02.07</center>** | LinkedQueue | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/LinkedQueue.swift) </center>|
 |5|**<center>2022.02.07</center>** | RingBufferQueue | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/RingBufferQueue.swift) </center>|
 |6|**<center>2022.02.07</center>** | DoubleStackQueue | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/DoubleStackQueue.swift) </center>|
+|6|**<center>2022.02.07</center>** | LinkedList | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/LinkedList.swift) </center>|
+|6|**<center>2022.02.07</center>** | DoublyLinkedList | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/DoublyLinkedList.swift) </center>|
 
 <br>
 
