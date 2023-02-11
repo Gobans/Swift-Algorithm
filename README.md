@@ -20,8 +20,8 @@
 |4|**<center>2022.02.07</center>** | LinkedQueue | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/LinkedQueue.swift) </center>|
 |5|**<center>2022.02.07</center>** | RingBufferQueue | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/RingBufferQueue.swift) </center>|
 |6|**<center>2022.02.07</center>** | DoubleStackQueue | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/DoubleStackQueue.swift) </center>|
-|6|**<center>2022.02.07</center>** | LinkedList | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/LinkedList.swift) </center>|
-|6|**<center>2022.02.07</center>** | DoublyLinkedList | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/DoublyLinkedList.swift) </center>|
+|6|**<center>2022.02.09</center>** | LinkedList | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/LinkedList.swift) </center>|
+|6|**<center>2022.02.10</center>** | DoublyLinkedList | <center>[코드](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/DataStrcutre/DoublyLinkedList.swift) </center>|
 
 <br>
 
@@ -62,6 +62,7 @@
 |30|**<center>2023.02.04</center>** | DFS/BFS | <center>[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=swift) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/단어%20변환/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/단어%20변환/)*|✅|
 |31|**<center>2023.02.05</center>** | DFS/BFS | <center>[여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/여행경로/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/여행경로/)*|✅|
 |32|**<center>2023.02.06</center>** | DFS/BFS | <center>[타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/타겟%20넘버/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/타겟%20넘버/)*|✅|
+|33|**<center>2023.02.11</center>** | DFS/BFS | <center>[아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694?language=python3) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/아이템%20줍기/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/아이템%20줍기/)*|✅|
 <br>
 
 ### 🛠️ 메소드
