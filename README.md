@@ -63,6 +63,7 @@
 |31|**<center>2023.02.05</center>** | DFS/BFS | <center>[여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/여행경로/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/여행경로/)*|✅|
 |32|**<center>2023.02.06</center>** | DFS/BFS | <center>[타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/타겟%20넘버/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/타겟%20넘버/)*|✅|
 |33|**<center>2023.02.11</center>** | DFS/BFS | <center>[아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694?language=python3) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/아이템%20줍기/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/아이템%20줍기/)*|✅|
+|34|**<center>2023.02.13</center>** | DFS/BFS | <center>[퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/퍼즐%20조각%20채우기/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/퍼즐%20조각%20채우기/)*|✅|
 <br>
 
 ### 🛠️ 메소드

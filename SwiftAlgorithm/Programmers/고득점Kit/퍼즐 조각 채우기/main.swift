@@ -33,13 +33,11 @@ func solution(_ game_board:[[Int]], _ table:[[Int]]) -> Int {
                         continue
                     }
                     if checkEqualPice(gameBoardPice, tablePice) {
-                        print("tablePice ")
                         answer += tablePice.count
                         isVisitedPice[idx] = true
                         break
                     }
                 }
-//                print("---------")
             }
         }
     }
@@ -100,41 +98,32 @@ func checkEqualPice(_ pice1: [(Int, Int)], _ pice2: [(Int, Int)]) -> Bool {
     if pice1.count != pice2.count {
         return false
     }
+    pice1.sort{ $0.0 == $1.0 ? $0.1 < $1.1 : $0.0 < $1.0 }
+    pice2.sort{ $0.0 == $1.0 ? $0.1 < $1.1 : $0.0 < $1.0 }
+    
     for _ in 0...3 {
-        pice1.sort{ $0.0 == $1.0 ? $0.1 < $1.1 : $0.0 < $1.0 }
-        pice2.sort{ $0.0 == $1.0 ? $0.1 < $1.1 : $0.0 < $1.0 }
-        
+        // adjust pice coordinate
         let diffX = abs(pice1[0].0 - pice2[0].0)
         let diffY = abs(pice1[0].1 - pice2[0].1)
         let adjustX = pice1[0].0 < pice2[0].0 ? -diffX : diffX
         let adjustY = pice1[0].1 < pice2[0].1 ? -diffY : diffY
-        var adjustedTable = pice2.map { ($0 + adjustX, $1 + adjustY)}
+        pice2 = pice2.map { ($0 + adjustX, $1 + adjustY)}
+        pice2.sort{ $0.0 == $1.0 ? $0.1 < $1.1 : $0.0 < $1.0 }
         
-        pice1.sort{ $0.0 == $1.0 ? $0.1 < $1.1 : $0.0 < $1.0 }
-        adjustedTable.sort{ $0.0 == $1.0 ? $0.1 < $1.1 : $0.0 < $1.0 }
-        
-        print("----pices-----")
-        print(pice1)
-        print(adjustedTable)
-        print("---------")
-        
+        // check is equal pice
         var isExistEqualPice = true
         for i in 0..<pice1.count {
-            if pice1[i] != adjustedTable[i] {
+            if pice1[i] != pice2[i] {
                 isExistEqualPice = false
+                break
             }
         }
         if isExistEqualPice {
-            print("matched")
-            print("---------")
             return true
         }
-        pice2 = pice2.map{ ($0.1, -$0.0)}
+        
+        rotatePice(pice: &pice2)
+        pice2.sort{ $0.0 == $1.0 ? $0.1 < $1.1 : $0.0 < $1.0 }
     }
-    print("---------")
     return false
 }
-
-let game_board = [[0,0,0],[1,1,0],[1,1,1]]
-let table = [[1,1,1],[1,0,0],[0,0,0]]
-print(solution(game_board, table))
