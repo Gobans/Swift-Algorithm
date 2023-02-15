@@ -65,6 +65,7 @@
 |33|**<center>2023.02.11</center>** | DFS/BFS | <center>[아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694?language=python3) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/아이템%20줍기/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/아이템%20줍기/)*|✅|
 |34|**<center>2023.02.13</center>** | DFS/BFS | <center>[퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/퍼즐%20조각%20채우기/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/퍼즐%20조각%20채우기/)*|✅|
 |35|**<center>2023.02.14</center>** | 이분탐색 | <center>[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238?language=swift) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/입국심사/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/입국심사/)*|✅|
+|36|**<center>2023.02.15</center>** | 이분탐색 | <center>[징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/징검다리/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/징검다리/)*|✅|
 <br>
 
 ### 🛠️ 메소드
