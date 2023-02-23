@@ -68,6 +68,7 @@
 |36|**<center>2023.02.15</center>** | 이분탐색 | <center>[징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/징검다리/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/징검다리/)*|✅|
 |37|**<center>2023.02.16</center>** | 그래프 | <center>[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189?language=swift) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/가장%20먼%20노드/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/가장%20먼%20노드/)*|✅|
 |38|**<center>2023.02.21</center>** | 그래프 | <center>[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191?language=swift) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/순위/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/순위/)*|❌|
+|39|**<center>2023.02.23</center>** | 그래프 | <center>[방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/방의%20개수/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/방의%20개수/)*|✅|
 <br>
 
 *</span> 코딩테스트 연습

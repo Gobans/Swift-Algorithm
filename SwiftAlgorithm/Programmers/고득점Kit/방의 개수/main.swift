@@ -7,11 +7,51 @@
 
 import Foundation
 
+struct Point: Hashable {
+    let y: Int
+    let x: Int
+}
+
+struct Route: Hashable {
+    let from: Point
+    let to: Point
+}
+
+
 func solution(_ arrows:[Int]) -> Int {
-    // 대각선의 움직임을 나타내기 위해 움직임을 2배로 만들기?
-    // 여러방이 있는지 어떻게 확인하는가?
-    // 방이 만들어지는 조건: 지나왔던 좌표를 또 방문했을때
-    // -> 1. 넓게 어떠한 도형으로 만들어 져서 도착했을때
-    // -> 2. 대각선으로 와서 세모의 형태로 만들어 졌을때
-    return 0
+    var answer = 0
+    // y, x 이동 좌표
+    let move = [(-1, 0), (-1, 1), (0, 1), (1, 1), (1, 0), (1, -1), (0, -1), (-1, -1)]
+    var isVisited: [Point : Bool] = [:]
+    var isVisitedDirection: [Route: Bool] = [:]
+    
+    var now = Point(y: 0, x: 0)
+    var queue: [Point] = []
+    queue.append(now)
+    arrows.forEach { arrow in
+        for _ in 0..<2 {
+            let next = Point(y: now.y + move[arrow].0, x: now.x + move[arrow].1)
+            queue.append(Point(y: next.y, x: next.x))
+            now = next
+        }
+    }
+    queue = queue.reversed()
+    now = queue.removeLast()
+    isVisited[now] = true
+    
+    while !queue.isEmpty {
+        let next = queue.removeLast()
+        if isVisited[next] == true {
+            if isVisitedDirection[Route(from: now, to: next)] == nil {
+                answer += 1
+            }
+        } else {
+            isVisited[next] = true
+        }
+        
+        isVisitedDirection[Route(from: now, to: next)] = true
+        isVisitedDirection[Route(from: next, to: now)] = true
+        now = next
+    }
+    return answer
 }
