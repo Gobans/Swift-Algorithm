@@ -70,6 +70,13 @@
 |38|**<center>2023.02.21</center>** | 그래프 | <center>[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191?language=swift) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/순위/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/순위/)*|❌|
 <br>
 
+*</span> 코딩테스트 연습
+<br>
+| <center>순번</center> | <center>날짜</center> |<center>분류</center>|  <center>문제</center> |  <center>소스코드</center> | <center>풀이</center>|<center>체크</center>|
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|1|**<center>2022.02.22</center>** | 그리디 | <center>[겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV0/겹치는%20선분의%20길이/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/겹치는%20선분의%20길이/)*|✅|
+
+
 ### 🛠️ 메소드
 
 <br/>
