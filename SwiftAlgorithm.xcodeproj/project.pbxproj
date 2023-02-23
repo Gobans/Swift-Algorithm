@@ -8,14 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		9106AE3C2994DFA800D1D0F2 /* DoublyLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9106AE3B2994DFA800D1D0F2 /* DoublyLinkedList.swift */; };
-		91111E1129A6486600B065B1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91111E1029A6486600B065B1 /* main.swift */; };
+		91111E1529A64EB800B065B1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91111E1429A64EB800B065B1 /* main.swift */; };
 		9113D47029913FBF0068DAFA /* EffectiveQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9113D46F29913FBF0068DAFA /* EffectiveQueue.swift */; };
 		91246E572992099F00AFCCAC /* DoubleStackQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91246E562992099F00AFCCAC /* DoubleStackQueue.swift */; };
 		91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B58296EEBD7001EF1B4 /* Combination.swift */; };
 		91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B5A296EF561001EF1B4 /* Permutation.swift */; };
 		91B6EB5A2991E83900F4AE4E /* LinkedQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B6EB592991E83900F4AE4E /* LinkedQueue.swift */; };
 		91B6EB5E2991F30300F4AE4E /* RingBufferQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B6EB5D2991F30300F4AE4E /* RingBufferQueue.swift */; };
-		91DAD62E29A3844A003965CC /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91DAD62D29A3844A003965CC /* main.swift */; };
 		91DEF9512993EED300A3EBA8 /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91DEF9502993EED300A3EBA8 /* LinkedList.swift */; };
 		91E46A06296443D4007B79DC /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A05296443D4007B79DC /* Heap.swift */; };
 		91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A0229644355007B79DC /* PriorityQueue.swift */; };
@@ -36,6 +35,7 @@
 /* Begin PBXFileReference section */
 		9106AE3B2994DFA800D1D0F2 /* DoublyLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoublyLinkedList.swift; sourceTree = "<group>"; };
 		91111E1029A6486600B065B1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		91111E1429A64EB800B065B1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9113D46D299134B70068DAFA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9113D46F29913FBF0068DAFA /* EffectiveQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EffectiveQueue.swift; sourceTree = "<group>"; };
 		9115529E29630F4400BD06FA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -113,6 +113,23 @@
 			path = "방의 개수";
 			sourceTree = "<group>";
 		};
+		91111E1229A64E9F00B065B1 /* LV0 */ = {
+			isa = PBXGroup;
+			children = (
+				91111E1329A64EA900B065B1 /* 겹치는 선분의 길이 */,
+			);
+			path = LV0;
+			sourceTree = "<group>";
+		};
+		91111E1329A64EA900B065B1 /* 겹치는 선분의 길이 */ = {
+			isa = PBXGroup;
+			children = (
+				91111E1429A64EB800B065B1 /* main.swift */,
+			);
+			name = "겹치는 선분의 길이";
+			path = "겹치는 선분의 길이";
+			sourceTree = "<group>";
+		};
 		9113D46C299134AD0068DAFA /* 타겟 넘버 */ = {
 			isa = PBXGroup;
 			children = (
@@ -171,6 +188,7 @@
 		912CC297295F140600D0D872 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				91111E1229A64E9F00B065B1 /* LV0 */,
 				912CC29A295F188C00D0D872 /* 고득점Kit */,
 			);
 			path = Programmers;
@@ -668,14 +686,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				91DEF9512993EED300A3EBA8 /* LinkedList.swift in Sources */,
+				91111E1529A64EB800B065B1 /* main.swift in Sources */,
 				91B6EB5A2991E83900F4AE4E /* LinkedQueue.swift in Sources */,
-				91111E1129A6486600B065B1 /* main.swift in Sources */,
 				91E46A06296443D4007B79DC /* Heap.swift in Sources */,
 				9113D47029913FBF0068DAFA /* EffectiveQueue.swift in Sources */,
 				91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */,
 				9106AE3C2994DFA800D1D0F2 /* DoublyLinkedList.swift in Sources */,
 				91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */,
-				91DAD62E29A3844A003965CC /* main.swift in Sources */,
 				91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */,
 				91B6EB5E2991F30300F4AE4E /* RingBufferQueue.swift in Sources */,
 				91246E572992099F00AFCCAC /* DoubleStackQueue.swift in Sources */,
