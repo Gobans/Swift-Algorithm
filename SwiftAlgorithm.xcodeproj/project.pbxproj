@@ -73,6 +73,8 @@
 		91B6EB5D2991F30300F4AE4E /* RingBufferQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RingBufferQueue.swift; sourceTree = "<group>"; };
 		91BE85AE2961A20A0006E79F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91BE85B02961B03D0006E79F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		91C052B429AA353A0087141A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		91C052B729AA3C810087141A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91C9F17B297D7F8E0096A481 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91D42F42297094D8002C826D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91D5094A2987BACE00465D97 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -495,6 +497,24 @@
 			path = "기능개발";
 			sourceTree = "<group>";
 		};
+		91C052B329AA352F0087141A /* 예상 대진표 */ = {
+			isa = PBXGroup;
+			children = (
+				91C052B429AA353A0087141A /* main.swift */,
+			);
+			name = "예상 대진표";
+			path = "예상 대진표";
+			sourceTree = "<group>";
+		};
+		91C052B629AA3C750087141A /* N개의 최소공배수 */ = {
+			isa = PBXGroup;
+			children = (
+				91C052B729AA3C810087141A /* main.swift */,
+			);
+			name = "N개의 최소공배수";
+			path = "N개의 최소공배수";
+			sourceTree = "<group>";
+		};
 		91C9F17A297D7F7A0096A481 /* 큰 수 만들기 */ = {
 			isa = PBXGroup;
 			children = (
@@ -569,6 +589,8 @@
 		91DDDD2A29A8B7A8001D389A /* LV2 */ = {
 			isa = PBXGroup;
 			children = (
+				91C052B629AA3C750087141A /* N개의 최소공배수 */,
+				91C052B329AA352F0087141A /* 예상 대진표 */,
 				91DDDD4329A8F4C7001D389A /* [1차] 캐시 */,
 				91DDDD4029A8ECCB001D389A /* 영어 끝말잇기 */,
 				91DDDD3D29A8E0A2001D389A /* 짝지어 제거하기 */,
