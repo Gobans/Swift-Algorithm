@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		9106AE3C2994DFA800D1D0F2 /* DoublyLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9106AE3B2994DFA800D1D0F2 /* DoublyLinkedList.swift */; };
-		910E813529ACA86F005849CB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91ADDDED29892BB30051AEC6 /* main.swift */; };
 		9113D47029913FBF0068DAFA /* EffectiveQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9113D46F29913FBF0068DAFA /* EffectiveQueue.swift */; };
 		91246E572992099F00AFCCAC /* DoubleStackQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91246E562992099F00AFCCAC /* DoubleStackQueue.swift */; };
 		91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B58296EEBD7001EF1B4 /* Combination.swift */; };
@@ -66,6 +65,8 @@
 		91852B5A296EF561001EF1B4 /* Permutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Permutation.swift; sourceTree = "<group>"; };
 		9186E8D2296A93770008DF6A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91882AA2297AA79D00F72ADB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9196EA0729ADDAC600E424A7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9196EA0A29ADFD1D00E424A7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91978366298E44700049171B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91A16DDD299B61240002C7C9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91AD971929726F9100C82AB1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -199,6 +200,7 @@
 		912CC297295F140600D0D872 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				9196EA0529ADDAB700E424A7 /* LV3 */,
 				91DDDD2A29A8B7A8001D389A /* LV2 */,
 				91111E1229A64E9F00B065B1 /* LV0 */,
 				912CC29A295F188C00D0D872 /* 고득점Kit */,
@@ -432,6 +434,33 @@
 			);
 			name = "조이스틱";
 			path = "조이스틱";
+			sourceTree = "<group>";
+		};
+		9196EA0529ADDAB700E424A7 /* LV3 */ = {
+			isa = PBXGroup;
+			children = (
+				9196EA0929ADFD1200E424A7 /* 기지국 설치 */,
+				9196EA0629ADDABE00E424A7 /* 숫자 게임 */,
+			);
+			path = LV3;
+			sourceTree = "<group>";
+		};
+		9196EA0629ADDABE00E424A7 /* 숫자 게임 */ = {
+			isa = PBXGroup;
+			children = (
+				9196EA0729ADDAC600E424A7 /* main.swift */,
+			);
+			name = "숫자 게임";
+			path = "숫자 게임";
+			sourceTree = "<group>";
+		};
+		9196EA0929ADFD1200E424A7 /* 기지국 설치 */ = {
+			isa = PBXGroup;
+			children = (
+				9196EA0A29ADFD1D00E424A7 /* main.swift */,
+			);
+			name = "기지국 설치";
+			path = "기지국 설치";
 			sourceTree = "<group>";
 		};
 		91978365298E44630049171B /* 단어 변환 */ = {
@@ -821,7 +850,6 @@
 				91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */,
 				9106AE3C2994DFA800D1D0F2 /* DoublyLinkedList.swift in Sources */,
 				91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */,
-				910E813529ACA86F005849CB /* main.swift in Sources */,
 				91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */,
 				91B6EB5E2991F30300F4AE4E /* RingBufferQueue.swift in Sources */,
 				91246E572992099F00AFCCAC /* DoubleStackQueue.swift in Sources */,

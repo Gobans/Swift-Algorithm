@@ -15,15 +15,10 @@ func solution(_ arr: [String]) -> Int {
         dpMax[i][i] = Int(arr[i*2])!
         dpMin[i][i] = Int(arr[i*2])!
     }
-    print(dpMax)
-    print(dpMin)
     for l in 2...n {
         for i in 0...n-l {
             let j = i + l - 1
             for k in i..<j {
-                print("i: \(i), j: \(j), k: \(k))")
-                print("dpMax[\(i)]: \(dpMax[i])")
-                print("dpMax[\(i)]: \(dpMin[i])")
                 if arr[k*2+1] == "+" {
                     dpMax[i][j] = max(dpMax[i][j], dpMax[i][k] + dpMax[k+1][j])
                     dpMin[i][j] = min(dpMin[i][j], dpMin[i][k] + dpMin[k+1][j])
@@ -31,24 +26,11 @@ func solution(_ arr: [String]) -> Int {
                     dpMax[i][j] = max(dpMax[i][j], dpMax[i][k] - dpMin[k+1][j])
                     dpMin[i][j] = min(dpMin[i][j], dpMin[i][k] - dpMax[k+1][j])
                 }
-                print("arr[k*2+1]: \(arr[k*2+1])")
-                dpMax.forEach { intArray in
-                    for i in intArray {
-                        if i == -9223372036854775807 {
-                            print("I", terminator: " ")
-                        } else {
-                            print(i, terminator: " ")
-                        }
-                    }
-                    print("")
-                }
-                print("--------------------------")
             }
         }
     }
     return dpMax[0][n-1]
 }
-solution(["1", "-", "3", "+", "5", "-", "8"])
 
 /* Solution referenced by other's code
 func solution(_ input_array:[String]) -> Int {
