@@ -10,7 +10,6 @@
 		9106AE3C2994DFA800D1D0F2 /* DoublyLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9106AE3B2994DFA800D1D0F2 /* DoublyLinkedList.swift */; };
 		9113D47029913FBF0068DAFA /* EffectiveQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9113D46F29913FBF0068DAFA /* EffectiveQueue.swift */; };
 		91246E572992099F00AFCCAC /* DoubleStackQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91246E562992099F00AFCCAC /* DoubleStackQueue.swift */; };
-		912C111429B07DBA00BB77C4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 912C111329B07DBA00BB77C4 /* main.swift */; };
 		91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B58296EEBD7001EF1B4 /* Combination.swift */; };
 		91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B5A296EF561001EF1B4 /* Permutation.swift */; };
 		91B6EB5A2991E83900F4AE4E /* LinkedQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B6EB592991E83900F4AE4E /* LinkedQueue.swift */; };
@@ -42,6 +41,8 @@
 		911A199929796E7C00AEA1DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91246E562992099F00AFCCAC /* DoubleStackQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoubleStackQueue.swift; sourceTree = "<group>"; };
 		912C111329B07DBA00BB77C4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		912C111629B0851F00BB77C4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		912C111929B0CFCE00BB77C4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		912CC28D295F13EA00D0D872 /* SwiftAlgorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftAlgorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		912CC298295F144C00D0D872 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		912CE70029727E910004B827 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -178,6 +179,24 @@
 			);
 			name = "불량 사용자";
 			path = "불량 사용자";
+			sourceTree = "<group>";
+		};
+		912C111529B0851700BB77C4 /* 보석 쇼핑 */ = {
+			isa = PBXGroup;
+			children = (
+				912C111629B0851F00BB77C4 /* main.swift */,
+			);
+			name = "보석 쇼핑";
+			path = "보석 쇼핑";
+			sourceTree = "<group>";
+		};
+		912C111829B0CFC700BB77C4 /* 징검다리 건너기 */ = {
+			isa = PBXGroup;
+			children = (
+				912C111929B0CFCE00BB77C4 /* main.swift */,
+			);
+			name = "징검다리 건너기";
+			path = "징검다리 건너기";
 			sourceTree = "<group>";
 		};
 		912CC284295F13EA00D0D872 = {
@@ -450,6 +469,8 @@
 		9196EA0529ADDAB700E424A7 /* LV3 */ = {
 			isa = PBXGroup;
 			children = (
+				912C111829B0CFC700BB77C4 /* 징검다리 건너기 */,
+				912C111529B0851700BB77C4 /* 보석 쇼핑 */,
 				912C111229B07DAB00BB77C4 /* 불량 사용자 */,
 				9196EA0929ADFD1200E424A7 /* 기지국 설치 */,
 				9196EA0629ADDABE00E424A7 /* 숫자 게임 */,
@@ -862,7 +883,6 @@
 				91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */,
 				9106AE3C2994DFA800D1D0F2 /* DoublyLinkedList.swift in Sources */,
 				91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */,
-				912C111429B07DBA00BB77C4 /* main.swift in Sources */,
 				91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */,
 				91B6EB5E2991F30300F4AE4E /* RingBufferQueue.swift in Sources */,
 				91246E572992099F00AFCCAC /* DoubleStackQueue.swift in Sources */,

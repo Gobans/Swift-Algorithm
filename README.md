@@ -89,6 +89,8 @@
 |12|**<center>2022.02.28</center>** | 그리디 | <center>[숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/숫자%20게임/main.swift)* |❎|✅|
 |13|**<center>2022.02.28</center>** | 그리디 | <center>[기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/기지국%20설치/main.swift)* |❎|✅|
 |14|**<center>2022.03.02</center>** | 조합 | <center>[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/불량%20사용자/main.swift)* |❎|❌다시한번 풀기|
+|15|**<center>2022.03.02</center>** | 해시/그리디 | <center>[보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/보석%20쇼핑/main.swift)* |❎|❌다시한번 풀기|
+|16|**<center>2022.03.02</center>** | 해시/그리디 | <center>[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/징검다리%20건너기/main.swift)* |❎|❌다시한번 풀기 + 다른방식으로 풀기|
 
 ### 🛠️ 메소드
 
