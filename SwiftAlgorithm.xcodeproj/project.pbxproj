@@ -106,6 +106,7 @@
 		91F17516299E47BF00A98B48 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91F86C1E299CF0E400270725 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91FC2357296C2410000F59FB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		91FD7F8529B2296600C686AB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -469,6 +470,7 @@
 		9196EA0529ADDAB700E424A7 /* LV3 */ = {
 			isa = PBXGroup;
 			children = (
+				91FD7F8429B2295C00C686AB /* 합승 택시 요금 */,
 				912C111829B0CFC700BB77C4 /* 징검다리 건너기 */,
 				912C111529B0851700BB77C4 /* 보석 쇼핑 */,
 				912C111229B07DAB00BB77C4 /* 불량 사용자 */,
@@ -815,6 +817,15 @@
 			);
 			name = "최소직사각형";
 			path = "최소직사각형";
+			sourceTree = "<group>";
+		};
+		91FD7F8429B2295C00C686AB /* 합승 택시 요금 */ = {
+			isa = PBXGroup;
+			children = (
+				91FD7F8529B2296600C686AB /* main.swift */,
+			);
+			name = "합승 택시 요금";
+			path = "합승 택시 요금";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
