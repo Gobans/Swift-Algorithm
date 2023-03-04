@@ -9,6 +9,40 @@ import Foundation
 
 func solution(_ gems:[String]) -> [Int] {
     let kinds = Set(gems).count
+    var gemDict: [String: Int] = [:]
+    var start = 0
+    var end = -1
+    var minDiff = Int.max
+    var answer = [0, 0]
+    
+    while end < gems.count {
+        if gemDict.count < kinds {
+            end += 1
+            if end < gems.count {
+                if gemDict[gems[end]] == nil {
+                    gemDict[gems[end]] = 0
+                }
+                gemDict[gems[end]]! += 1
+            }
+        } else {
+            gemDict[gems[start]]! -= 1
+            if gemDict[gems[start]] == 0 {
+                gemDict[gems[start]] = nil
+            }
+            start += 1
+        }
+        if gemDict.count == kinds && end - start < minDiff {
+            minDiff = end - start
+            answer = [start + 1, end + 1]
+        }
+    }
+    
+    return answer
+}
+
+/* Solution referenced by other's solution
+func solution(_ gems:[String]) -> [Int] {
+    let kinds = Set(gems).count
     if kinds == 1 {
         return [1, 1]
     }
@@ -49,6 +83,7 @@ func solution(_ gems:[String]) -> [Int] {
     
     return answer
 }
+ */
 
 /* 시간초과
 func solution(_ gems:[String]) -> [Int] {
