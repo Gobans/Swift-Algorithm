@@ -8,6 +8,52 @@
 import Foundation
 
 func solution(_ user_id:[String], _ banned_id:[String]) -> Int {
+    var bannedList: [[String]] = []
+    for banString in banned_id {
+        let banStringArray = Array(banString)
+        var tempBanId: [String] = []
+        for userId in user_id {
+            let userIdArray = Array(userId)
+            if banStringArray.count != userIdArray.count {
+                continue
+            }
+            var isMatched = true
+            for i in 0..<userIdArray.count {
+                if banStringArray[i] == "*" {
+                    continue
+                }
+                if userIdArray[i] != banStringArray[i] {
+                    isMatched = false
+                    break
+                }
+            }
+            if isMatched {
+                tempBanId.append(userId)
+            }
+        }
+        bannedList.append(tempBanId)
+    }
+    var answer: [[String]] = []
+    func DFS(_ idx: Int, _ permutationList: [String]) {
+        if idx == banned_id.count {
+            answer.append(permutationList)
+            return
+        }
+        for id in bannedList[idx] {
+            var permutationList = permutationList
+            if permutationList.contains(id) {
+                continue
+            }
+            permutationList.append(id)
+            DFS(idx + 1, permutationList)
+        }
+    }
+    DFS(0, [])
+    return Set(answer.map { $0.sorted() }).count
+}
+
+/* Solution referenced by other's solution
+func solution(_ user_id:[String], _ banned_id:[String]) -> Int {
     var bannedList = [[String]]()
 
     for bid in banned_id {
@@ -30,7 +76,7 @@ func solution(_ user_id:[String], _ banned_id:[String]) -> Int {
         }
         bannedList.append(temp)
     }
- 
+
     var stack = [(idx: Int, idList: [String])]()
     var answer = [[String]]()
 
@@ -40,7 +86,7 @@ func solution(_ user_id:[String], _ banned_id:[String]) -> Int {
 
     while stack.count > 0 {
         let now = stack.removeLast()
-        
+
         if now.idx == banned_id.count-1 {
             answer.append(now.idList)
             continue
@@ -55,7 +101,7 @@ func solution(_ user_id:[String], _ banned_id:[String]) -> Int {
             stack.append((idx, idList))
         }
     }
-    
+
     return Set(answer.map { $0.sorted() }).count
 }
-    
+ */
