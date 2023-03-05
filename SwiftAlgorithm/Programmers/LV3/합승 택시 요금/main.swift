@@ -17,7 +17,6 @@ func solution(_ n:Int, _ s:Int, _ a:Int, _ b:Int, _ fares:[[Int]]) -> Int {
     }
     for i in 1...n {
         graph[i][i] = 0
-        graph[i][i] = 0
     }
     
     for k in 1...n {
