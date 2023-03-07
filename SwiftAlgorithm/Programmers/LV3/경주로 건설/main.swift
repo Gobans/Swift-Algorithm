@@ -17,10 +17,11 @@ func solution(_ board:[[Int]]) -> Int
     let dx = [0, 0, 0, -1, 1]
     let dy = [0, 1, -1, 0, 0]
     let n = board.count
-    var costBoard = Array(repeating: Array(repeating: 20000, count: n), count: n)
-    var directionBoard = Array(repeating: Array(repeating: 0, count: n), count: n)
+    var costBoard = Array(repeating: Array(repeating: Array(repeating: Int.max, count: n), count: n), count: 4)
     stack.append((x: 0, y: 0, preDirection: direction[0], totalCost: 0))
-    costBoard[0][0] = 0
+    for i in 0..<4 {
+        costBoard[i][0][0] = 0
+    }
     while !stack.isEmpty {
         let now = stack.removeFirst()
         for i in 1...4 {
@@ -32,21 +33,12 @@ func solution(_ board:[[Int]]) -> Int
             let ny = now.y + dy[i]
             let buildCost = now.totalCost + cost
             if 0..<n ~= nx && 0..<n ~= ny && board[ny][nx] == 0 {
-                // 코스트가 더 들지만 다른 방향에서 온 경우? (무한루프..)
-                if directionBoard[ny][nx] != 0 && directionBoard[ny][nx] != direction[i] && costBoard[ny][nx] <= buildCost {
-                    stack.append((x: nx, y: ny, preDirection: direction[i], totalCost: buildCost))
-                } else if costBoard[ny][nx] > buildCost {
-                    costBoard[ny][nx] = buildCost
-                    directionBoard[ny][nx] = direction[i]
+                if costBoard[i-1][ny][nx] > buildCost {
+                    costBoard[i-1][ny][nx] = buildCost
                     stack.append((x: nx, y: ny, preDirection: direction[i], totalCost: buildCost))
                 }
             }
         }
     }
-    board.forEach{ print($0) }
-    print("----")
-    costBoard.forEach{ print($0) }
-    return costBoard[n-1][n-1]
+    return costBoard.map { $0[n-1][n-1] }.min()!
 }
-
-print(solution([[0, 0, 0, 0, 0], [0, 1, 1, 1, 0], [0, 0, 1, 0, 0], [1, 0, 0, 0, 1], [0, 1, 1, 0, 0]]))

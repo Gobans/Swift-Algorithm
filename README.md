@@ -92,6 +92,7 @@
 |15|**<center>2022.03.02</center>** | 해시/그리디 | <center>[보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/보석%20쇼핑/main.swift)* |❎|✅|
 |16|**<center>2022.03.02</center>** | 해시/그리디 | <center>[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/징검다리%20건너기/main.swift)* |❎|✅|
 |17|**<center>2022.03.03</center>** | 해시/그리디 | <center>[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/합승%20택시%20요금/main.swift)* |❎|✅|
+|18|**<center>2022.03.07</center>** | 해시/그리디 | <center>[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/경주로%20건설/main.swift)* |❎|✅|
 
 ### 🛠️ 메소드
 
