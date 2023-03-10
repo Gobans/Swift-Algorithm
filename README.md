@@ -94,6 +94,7 @@
 |17|**<center>2022.03.03</center>** | 해시/그리디 | <center>[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/합승%20택시%20요금/main.swift)* |❎|✅|
 |18|**<center>2022.03.07</center>** | 해시/그리디 | <center>[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/경주로%20건설/main.swift)* |❎|✅|
 |19|**<center>2022.03.09</center>** | 해시/그리디 | <center>[가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/가장%20긴%20팰린드롬/main.swift)* |❎|❌ 다시한번 풀어보기|
+|20|**<center>2022.03.10</center>** | 그리디 | <center>[약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/약수의%20합/main.swift)* |❎|✅|
 
 ### 🛠️ 메소드
 
