@@ -25,11 +25,13 @@
 
 <br>
 
-<details>
-<summary>코딩테스트 코득점 Kit</summary>
 ### 🧑🏻‍💻 프로그래머스
-*(현재진행중)</span> [코딩 테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
-<br>
+
+<details>
+<summary>코딩테스트 고득점 Kit</summary>
+
+<br/>
+
 | <center>순번</center> | <center>날짜</center> |<center>분류</center>|  <center>문제</center> |  <center>소스코드</center> | <center>풀이</center>|<center>체크</center>|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |1|**<center>2022.12.30</center>** | 해시 | <center>[베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/베스트앨범/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/베스트앨범/)*|✅|
@@ -73,36 +75,34 @@
 |39|**<center>2023.02.23</center>** | 그래프 | <center>[방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/방의%20개수/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/방의%20개수/)*|✅|
 </details>
 
-<br>
-
-
 <details>
 <summary>코딩테스트 연습 LV0</summary>
-*</span> 코딩테스트 연습 LV0
-<br>
+
+<br/>
+
 | <center>순번</center> | <center>날짜</center> |<center>분류</center>|  <center>문제</center> |  <center>소스코드</center> | <center>풀이</center>|<center>체크</center>|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |1|**<center>2022.02.22</center>** | 그리디 | <center>[겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV0/겹치는%20선분의%20길이/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/겹치는%20선분의%20길이/)*|✅|
 
-<br/>
 </details>
 
 <details>
 <summary>코딩테스트 연습 LV1</summary>
-*</span> 코딩테스트 연습 LV1
-<br>
+
+<br/>
+
 | <center>순번</center> | <center>날짜</center> |<center>분류</center>|  <center>문제</center> |  <center>소스코드</center> | <center>풀이</center>|<center>체크</center>|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |1|**<center>2022.03.10</center>** | 그리디 | <center>[약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/약수의%20합/main.swift)* |❎|✅|
 |2|**<center>2022.03.11</center>** | 그리디 | <center>[평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/평균%20구하기/main.swift)* |❎|✅|
 
-<br/>
 </details>
 
 <details>
 <summary>코딩테스트 연습 LV2</summary>
-*</span> 코딩테스트 연습 LV2
-<br>
+
+<br/>
+
 | <center>순번</center> | <center>날짜</center> |<center>분류</center>|  <center>문제</center> |  <center>소스코드</center> | <center>풀이</center>|<center>체크</center>|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |1|**<center>2022.02.22</center>** | 그리디 | <center>[겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV0/겹치는%20선분의%20길이/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/겹치는%20선분의%20길이/)*|✅|
@@ -119,12 +119,11 @@
 
 </details>
 
-<br/>
-
 <details>
 <summary>코딩테스트 연습 LV3</summary>
-*</span> 코딩테스트 연습 LV3
-<br>
+
+<br/>
+
 | <center>순번</center> | <center>날짜</center> |<center>분류</center>|  <center>문제</center> |  <center>소스코드</center> | <center>풀이</center>|<center>체크</center>|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |1|**<center>2022.02.28</center>** | 그리디 | <center>[숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/숫자%20게임/main.swift)* |❎|✅|
