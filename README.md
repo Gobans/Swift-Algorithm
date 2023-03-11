@@ -25,6 +25,8 @@
 
 <br>
 
+<details>
+<summary>코딩테스트 코득점 Kit</summary>
 ### 🧑🏻‍💻 프로그래머스
 *(현재진행중)</span> [코딩 테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 <br>
@@ -69,9 +71,37 @@
 |37|**<center>2023.02.16</center>** | 그래프 | <center>[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189?language=swift) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/가장%20먼%20노드/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/가장%20먼%20노드/)*|✅|
 |38|**<center>2023.02.21</center>** | 그래프 | <center>[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191?language=swift) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/순위/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/순위/)*|❌|
 |39|**<center>2023.02.23</center>** | 그래프 | <center>[방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/고득점Kit/방의%20개수/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/방의%20개수/)*|✅|
+</details>
+
 <br>
 
-*</span> 코딩테스트 연습
+
+<details>
+<summary>코딩테스트 연습 LV0</summary>
+*</span> 코딩테스트 연습 LV0
+<br>
+| <center>순번</center> | <center>날짜</center> |<center>분류</center>|  <center>문제</center> |  <center>소스코드</center> | <center>풀이</center>|<center>체크</center>|
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|1|**<center>2022.02.22</center>** | 그리디 | <center>[겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV0/겹치는%20선분의%20길이/main.swift)* |*[blog](https://gobanest.com/algorithm/programmers/겹치는%20선분의%20길이/)*|✅|
+
+<br/>
+</details>
+
+<details>
+<summary>코딩테스트 연습 LV1</summary>
+*</span> 코딩테스트 연습 LV1
+<br>
+| <center>순번</center> | <center>날짜</center> |<center>분류</center>|  <center>문제</center> |  <center>소스코드</center> | <center>풀이</center>|<center>체크</center>|
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|1|**<center>2022.03.10</center>** | 그리디 | <center>[약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/약수의%20합/main.swift)* |❎|✅|
+|2|**<center>2022.03.11</center>** | 그리디 | <center>[평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/평균%20구하기/main.swift)* |❎|✅|
+
+<br/>
+</details>
+
+<details>
+<summary>코딩테스트 연습 LV2</summary>
+*</span> 코딩테스트 연습 LV2
 <br>
 | <center>순번</center> | <center>날짜</center> |<center>분류</center>|  <center>문제</center> |  <center>소스코드</center> | <center>풀이</center>|<center>체크</center>|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
@@ -86,15 +116,27 @@
 |9|**<center>2022.02.24</center>** | 그리디 | <center>[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV2/최댓값과%20최솟값/main.swift)* |❎|✅|
 |10|**<center>2022.02.25</center>** | 그리디 | <center>[[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV2/[1차]%20캐시/main.swift)* |❎|✅|
 |11|**<center>2022.02.26</center>** | 그리디 | <center>[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV2/N개의%20최소공배수/main.swift)* |❎|✅|
-|12|**<center>2022.02.28</center>** | 그리디 | <center>[숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/숫자%20게임/main.swift)* |❎|✅|
-|13|**<center>2022.02.28</center>** | 그리디 | <center>[기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/기지국%20설치/main.swift)* |❎|✅|
-|14|**<center>2022.03.02</center>** | 조합 | <center>[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/불량%20사용자/main.swift)* |❎|✅|
-|15|**<center>2022.03.02</center>** | 해시/그리디 | <center>[보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/보석%20쇼핑/main.swift)* |❎|✅|
-|16|**<center>2022.03.02</center>** | 해시/그리디 | <center>[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/징검다리%20건너기/main.swift)* |❎|✅|
-|17|**<center>2022.03.03</center>** | 해시/그리디 | <center>[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/합승%20택시%20요금/main.swift)* |❎|✅|
-|18|**<center>2022.03.07</center>** | 해시/그리디 | <center>[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/경주로%20건설/main.swift)* |❎|✅|
-|19|**<center>2022.03.09</center>** | 해시/그리디 | <center>[가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/가장%20긴%20팰린드롬/main.swift)* |❎|❌ 다시한번 풀어보기|
-|20|**<center>2022.03.10</center>** | 그리디 | <center>[약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/약수의%20합/main.swift)* |❎|✅|
+
+</details>
+
+<br/>
+
+<details>
+<summary>코딩테스트 연습 LV3</summary>
+*</span> 코딩테스트 연습 LV3
+<br>
+| <center>순번</center> | <center>날짜</center> |<center>분류</center>|  <center>문제</center> |  <center>소스코드</center> | <center>풀이</center>|<center>체크</center>|
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|1|**<center>2022.02.28</center>** | 그리디 | <center>[숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/숫자%20게임/main.swift)* |❎|✅|
+|2|**<center>2022.02.28</center>** | 그리디 | <center>[기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/기지국%20설치/main.swift)* |❎|✅|
+|3|**<center>2022.03.02</center>** | 조합 | <center>[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/불량%20사용자/main.swift)* |❎|✅|
+|4|**<center>2022.03.02</center>** | 해시/그리디 | <center>[보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/보석%20쇼핑/main.swift)* |❎|✅|
+|5|**<center>2022.03.02</center>** | 해시/그리디 | <center>[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/징검다리%20건너기/main.swift)* |❎|✅|
+|6|**<center>2022.03.03</center>** | 해시/그리디 | <center>[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/합승%20택시%20요금/main.swift)* |❎|✅|
+|7|**<center>2022.03.07</center>** | 해시/그리디 | <center>[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/경주로%20건설/main.swift)* |❎|✅|
+|8|**<center>2022.03.09</center>** | 해시/그리디 | <center>[가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV3/가장%20긴%20팰린드롬/main.swift)* |❎|❌ 다시한번 풀어보기|
+
+</details>
 
 ### 🛠️ 메소드
 
