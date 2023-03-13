@@ -82,6 +82,7 @@
 		91B6EB5D2991F30300F4AE4E /* RingBufferQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RingBufferQueue.swift; sourceTree = "<group>"; };
 		91BE85AE2961A20A0006E79F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91BE85B02961B03D0006E79F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		91BFB6DB29C0470800625DD7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91C052B429AA353A0087141A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91C052B729AA3C810087141A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91C9F17B297D7F8E0096A481 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -606,6 +607,15 @@
 			path = "기능개발";
 			sourceTree = "<group>";
 		};
+		91BFB6DA29C046FF00625DD7 /* 자릿수 더하기 */ = {
+			isa = PBXGroup;
+			children = (
+				91BFB6DB29C0470800625DD7 /* main.swift */,
+			);
+			name = "자릿수 더하기";
+			path = "자릿수 더하기";
+			sourceTree = "<group>";
+		};
 		91C052B329AA352F0087141A /* 예상 대진표 */ = {
 			isa = PBXGroup;
 			children = (
@@ -662,6 +672,7 @@
 		91D6E0A429BB8541005BD4AD /* LV1 */ = {
 			isa = PBXGroup;
 			children = (
+				91BFB6DA29C046FF00625DD7 /* 자릿수 더하기 */,
 				915DA40129BE11EA004C8AE7 /* 짝수와 홀수 */,
 				915DA3FE29BCBA96004C8AE7 /* 평균 구하기 */,
 				91D6E0A529BB8559005BD4AD /* 약수의 합 */,

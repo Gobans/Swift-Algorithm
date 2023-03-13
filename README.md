@@ -95,7 +95,8 @@
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |1|**<center>2022.03.10</center>** | 그리디 | <center>[약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/약수의%20합/main.swift)* |❎|✅|
 |2|**<center>2022.03.11</center>** | 그리디 | <center>[평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/평균%20구하기/main.swift)* |❎|✅|
-|2|**<center>2022.03.12</center>** | 그리디 | <center>[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/짝수와%20홀수/main.swift)* |❎|✅|
+|3|**<center>2022.03.12</center>** | 그리디 | <center>[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/짝수와%20홀수/main.swift)* |❎|✅|
+|4|**<center>2022.03.12</center>** | 그리디 | <center>[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/자릿수%20더하기/main.swift)* |❎|✅|
 
 </details>
 
