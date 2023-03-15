@@ -14,7 +14,6 @@
 		91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B5A296EF561001EF1B4 /* Permutation.swift */; };
 		91B6EB5A2991E83900F4AE4E /* LinkedQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B6EB592991E83900F4AE4E /* LinkedQueue.swift */; };
 		91B6EB5E2991F30300F4AE4E /* RingBufferQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B6EB5D2991F30300F4AE4E /* RingBufferQueue.swift */; };
-		91BFB6DF29C049B500625DD7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91BFB6DE29C049B500625DD7 /* main.swift */; };
 		91DEF9512993EED300A3EBA8 /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91DEF9502993EED300A3EBA8 /* LinkedList.swift */; };
 		91E46A06296443D4007B79DC /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A05296443D4007B79DC /* Heap.swift */; };
 		91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A0229644355007B79DC /* PriorityQueue.swift */; };
@@ -88,6 +87,7 @@
 		91C052B429AA353A0087141A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91C052B729AA3C810087141A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91C9F17B297D7F8E0096A481 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		91CAB35729C20DB300AB2B8F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91D42F42297094D8002C826D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91D5094A2987BACE00465D97 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91D697C7298FB31C00C855F5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -654,6 +654,15 @@
 			path = "큰 수 만들기";
 			sourceTree = "<group>";
 		};
+		91CAB35629C20DA900AB2B8F /* 자연수 뒤집어 배열로 만들기 */ = {
+			isa = PBXGroup;
+			children = (
+				91CAB35729C20DB300AB2B8F /* main.swift */,
+			);
+			name = "자연수 뒤집어 배열로 만들기";
+			path = "자연수 뒤집어 배열로 만들기";
+			sourceTree = "<group>";
+		};
 		91D42F41297094C9002C826D /* 카펫 */ = {
 			isa = PBXGroup;
 			children = (
@@ -683,6 +692,7 @@
 		91D6E0A429BB8541005BD4AD /* LV1 */ = {
 			isa = PBXGroup;
 			children = (
+				91CAB35629C20DA900AB2B8F /* 자연수 뒤집어 배열로 만들기 */,
 				91BFB6DD29C0494B00625DD7 /* x만큼 간격이 있는 n개의 숫자 */,
 				91BFB6DA29C046FF00625DD7 /* 자릿수 더하기 */,
 				915DA40129BE11EA004C8AE7 /* 짝수와 홀수 */,
@@ -980,7 +990,6 @@
 				91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */,
 				9106AE3C2994DFA800D1D0F2 /* DoublyLinkedList.swift in Sources */,
 				91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */,
-				91BFB6DF29C049B500625DD7 /* main.swift in Sources */,
 				91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */,
 				91B6EB5E2991F30300F4AE4E /* RingBufferQueue.swift in Sources */,
 				91246E572992099F00AFCCAC /* DoubleStackQueue.swift in Sources */,
