@@ -100,6 +100,7 @@
 |4|**<center>2022.03.14</center>** | 그리디 | <center>[x 만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/x만큼%20간격이%20있는%20n개의%20숫자/main.swift)* |❎|✅|
 |5|**<center>2022.03.15</center>** | 그리디 | <center>[자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/자연수%20뒤집어%20배열로%20만들기/main.swift)* |❎|✅|
 |6|**<center>2022.03.16</center>** | 그리디 | <center>[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/문자열%20내%20p와%20y의%20개수/main.swift)* |❎|✅|
+|7|**<center>2022.03.17</center>** | 그리디 | <center>[정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934/solution_groups?language=swift) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/정수%20제곱근%20판별/main.swift)* |❎|✅|
 
 </details>
 
