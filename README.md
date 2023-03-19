@@ -103,6 +103,7 @@
 |7|**<center>2022.03.17</center>** | 그리디 | <center>[정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934/solution_groups?language=swift) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/정수%20제곱근%20판별/main.swift)* |❎|✅|
 |8|**<center>2022.03.18</center>** | 그리디 | <center>[나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/나머지가%201이되는%20수%20찾기/main.swift)* |❎|✅|
 |9|**<center>2022.03.19</center>** | 그리디 | <center>[정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/정수%20내림차순으로%20배치하기/main.swift)* |❎|✅|
+|10|**<center>2022.03.19</center>** | 그리디 | <center>[문자열 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/문자열%20정수로%20바꾸기/main.swift)* |❎|✅|
 
 </details>
 
