@@ -40,6 +40,7 @@
 		9113D46F29913FBF0068DAFA /* EffectiveQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EffectiveQueue.swift; sourceTree = "<group>"; };
 		9115529E29630F4400BD06FA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		911A199929796E7C00AEA1DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		911BC7A729CB301A00F2C2BB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91246E562992099F00AFCCAC /* DoubleStackQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoubleStackQueue.swift; sourceTree = "<group>"; };
 		912C111329B07DBA00BB77C4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		912C111629B0851F00BB77C4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -195,6 +196,15 @@
 			);
 			name = "체육복";
 			path = "체육복";
+			sourceTree = "<group>";
+		};
+		911BC7A629CB301000F2C2BB /* 자물쇠와 열쇠 */ = {
+			isa = PBXGroup;
+			children = (
+				911BC7A729CB301A00F2C2BB /* main.swift */,
+			);
+			name = "자물쇠와 열쇠";
+			path = "자물쇠와 열쇠";
 			sourceTree = "<group>";
 		};
 		912C111229B07DAB00BB77C4 /* 불량 사용자 */ = {
@@ -567,6 +577,7 @@
 		9196EA0529ADDAB700E424A7 /* LV3 */ = {
 			isa = PBXGroup;
 			children = (
+				911BC7A629CB301000F2C2BB /* 자물쇠와 열쇠 */,
 				91B019FF29C9832C00991154 /* 셔틀버스 */,
 				9103468329B8CC14005ED840 /* 가장 긴 팰린드롬 */,
 				91322B2929B6215200771D0F /* 경주로 건설 */,
