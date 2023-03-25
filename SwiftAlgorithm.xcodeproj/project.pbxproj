@@ -89,6 +89,7 @@
 		91B6EB5D2991F30300F4AE4E /* RingBufferQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RingBufferQueue.swift; sourceTree = "<group>"; };
 		91BA382F29CD85BD008FB246 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91BA383229CD891E008FB246 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		91BA383629CD8A5E008FB246 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91BE85AE2961A20A0006E79F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91BE85B02961B03D0006E79F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		91BFB6DB29C0470800625DD7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -693,6 +694,15 @@
 			path = "콜라츠 추측";
 			sourceTree = "<group>";
 		};
+		91BA383529CD8A54008FB246 /* 서울에서 김서방 찾기 */ = {
+			isa = PBXGroup;
+			children = (
+				91BA383629CD8A5E008FB246 /* main.swift */,
+			);
+			name = "서울에서 김서방 찾기";
+			path = "서울에서 김서방 찾기";
+			sourceTree = "<group>";
+		};
 		91BE85AD2961A1FE0006E79F /* 기능개발 */ = {
 			isa = PBXGroup;
 			children = (
@@ -794,6 +804,7 @@
 		91D6E0A429BB8541005BD4AD /* LV1 */ = {
 			isa = PBXGroup;
 			children = (
+				91BA383529CD8A54008FB246 /* 서울에서 김서방 찾기 */,
 				91BA383129CD8914008FB246 /* 콜라츠 추측 */,
 				91BA382E29CD85B0008FB246 /* 두 정수 사이의 합 */,
 				915AEC4429C897F800F7AB3E /* 하샤드 수 */,
