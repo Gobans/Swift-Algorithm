@@ -112,6 +112,7 @@
 |16|**<center>2022.03.27</center>** | 그리디 | <center>[핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/핸드폰%20번호%20가리기/main.swift)* |❎|✅|
 |17|**<center>2022.03.28</center>** | 그리디 | <center>[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/음양%20더하기/main.swift)* |❎|✅|
 |18|**<center>2022.03.29</center>** | 그리디 | <center>[제일 작은수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/제일%20작은수%20제거하기/main.swift)* |❎|✅|
+|19|**<center>2022.03.30</center>** | 그리디 | <center>[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/없는%20숫자%20더하기/main.swift)* |❎|✅|
 </details>
 
 <details>
