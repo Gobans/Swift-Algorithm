@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+func solution(_ n:Int) -> String {
+    return (1...n).map{ return $0%2 == 1 ? "수" : "박" }.joined()
+}
