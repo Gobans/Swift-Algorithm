@@ -115,6 +115,7 @@
 |19|**<center>2022.03.30</center>** | 그리디 | <center>[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/없는%20숫자%20더하기/main.swift)* |❎|✅|
 |20|**<center>2022.03.31</center>** | 그리디 | <center>[가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/가운데%20글자%20가져오기/main.swift)* |❎|✅|
 |21|**<center>2022.03.31</center>** | 그리디 | <center>[수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/수박수박수박수박수박수?/main.swift)* |❎|✅|
+|22|**<center>2022.03.31</center>** | 그리디 | <center>[내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/내적/main.swift)* |❎|✅|
 </details>
 
 <details>
