@@ -41,6 +41,7 @@
 		9115529E29630F4400BD06FA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		911A199929796E7C00AEA1DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		911BC7A729CB301A00F2C2BB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9122632E29DB1E05007E2FEC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91246E562992099F00AFCCAC /* DoubleStackQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoubleStackQueue.swift; sourceTree = "<group>"; };
 		912C111329B07DBA00BB77C4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		912C111629B0851F00BB77C4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -216,6 +217,15 @@
 			);
 			name = "자물쇠와 열쇠";
 			path = "자물쇠와 열쇠";
+			sourceTree = "<group>";
+		};
+		9122632D29DB1DFA007E2FEC /* 문자열 내림차순으로 배치하기 */ = {
+			isa = PBXGroup;
+			children = (
+				9122632E29DB1E05007E2FEC /* main.swift */,
+			);
+			name = "문자열 내림차순으로 배치하기";
+			path = "문자열 내림차순으로 배치하기";
 			sourceTree = "<group>";
 		};
 		912C111229B07DAB00BB77C4 /* 불량 사용자 */ = {
@@ -857,6 +867,7 @@
 		91D6E0A429BB8541005BD4AD /* LV1 */ = {
 			isa = PBXGroup;
 			children = (
+				9122632D29DB1DFA007E2FEC /* 문자열 내림차순으로 배치하기 */,
 				91DF6F8F29D72406002FF258 /* 내적 */,
 				91DF6F8C29D72281002FF258 /* 수박수박수박수박수박수? */,
 				91DF6F8929D72110002FF258 /* 가운데 글자 가져오기 */,
