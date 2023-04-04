@@ -56,6 +56,8 @@
 		91322B2A29B6215C00771D0F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		913609152965A26F0051DD8E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91375E1A296003BC00789573 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		913818A229DBADC600E64ED9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		913818A529DBADE100E64ED9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9138A39B2982C9DC005ADA08 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91408DE8296D8E16006A52E1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9141A8132985761B001ACA6D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -396,6 +398,24 @@
 			);
 			name = "주식가격";
 			path = "주식가격";
+			sourceTree = "<group>";
+		};
+		913818A129DBADBB00E64ED9 /* 약수의 개수와 덧셈 */ = {
+			isa = PBXGroup;
+			children = (
+				913818A229DBADC600E64ED9 /* main.swift */,
+			);
+			name = "약수의 개수와 덧셈";
+			path = "약수의 개수와 덧셈";
+			sourceTree = "<group>";
+		};
+		913818A429DBADD600E64ED9 /* 문자열 다루기 기본 */ = {
+			isa = PBXGroup;
+			children = (
+				913818A529DBADE100E64ED9 /* main.swift */,
+			);
+			name = "문자열 다루기 기본";
+			path = "문자열 다루기 기본";
 			sourceTree = "<group>";
 		};
 		9138A39A2982C9AE005ADA08 /* 단속카메라 */ = {
@@ -867,6 +887,8 @@
 		91D6E0A429BB8541005BD4AD /* LV1 */ = {
 			isa = PBXGroup;
 			children = (
+				913818A429DBADD600E64ED9 /* 문자열 다루기 기본 */,
+				913818A129DBADBB00E64ED9 /* 약수의 개수와 덧셈 */,
 				9122632D29DB1DFA007E2FEC /* 문자열 내림차순으로 배치하기 */,
 				91DF6F8F29D72406002FF258 /* 내적 */,
 				91DF6F8C29D72281002FF258 /* 수박수박수박수박수박수? */,
