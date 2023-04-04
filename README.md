@@ -119,6 +119,7 @@
 |23|**<center>2022.04.01</center>** | 그리디 | <center>[문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/문자열%20내림차순으로%20배치하기/main.swift)* |❎|✅|
 |24|**<center>2022.04.02</center>** | 그리디 | <center>[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/약수의%20개수와%20덧셈/main.swift)* |❎|✅|
 |25|**<center>2022.04.03</center>** | 그리디 | <center>[문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/문자열%20다루기%20기본/main.swift)* |❎|✅|
+|25|**<center>2022.04.04</center>** | 그리디 | <center>[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/부족한%20금액%20계산하기/main.swift)* |❎|✅|
 </details>
 
 <details>

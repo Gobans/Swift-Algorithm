@@ -124,6 +124,7 @@
 		91DDDD3E29A8E0AE001D389A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91DDDD4129A8ECD4001D389A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91DDDD4429A8F4D1001D389A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		91DE26D129DBB50B00B4F5DE /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91DEF9502993EED300A3EBA8 /* LinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedList.swift; sourceTree = "<group>"; };
 		91DF6F8A29D72119002FF258 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91DF6F8D29D7228C002FF258 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -887,6 +888,7 @@
 		91D6E0A429BB8541005BD4AD /* LV1 */ = {
 			isa = PBXGroup;
 			children = (
+				91DE26D029DBB50000B4F5DE /* 부족한 금액 계산하기 */,
 				913818A429DBADD600E64ED9 /* 문자열 다루기 기본 */,
 				913818A129DBADBB00E64ED9 /* 약수의 개수와 덧셈 */,
 				9122632D29DB1DFA007E2FEC /* 문자열 내림차순으로 배치하기 */,
@@ -1059,6 +1061,15 @@
 			);
 			name = "[1차] 캐시";
 			path = "[1차] 캐시";
+			sourceTree = "<group>";
+		};
+		91DE26D029DBB50000B4F5DE /* 부족한 금액 계산하기 */ = {
+			isa = PBXGroup;
+			children = (
+				91DE26D129DBB50B00B4F5DE /* main.swift */,
+			);
+			name = "부족한 금액 계산하기";
+			path = "부족한 금액 계산하기";
 			sourceTree = "<group>";
 		};
 		91DF6F8929D72110002FF258 /* 가운데 글자 가져오기 */ = {
