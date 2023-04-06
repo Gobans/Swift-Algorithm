@@ -141,6 +141,7 @@
 |9|**<center>2022.02.24</center>** | 그리디 | <center>[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV2/최댓값과%20최솟값/main.swift)* |❎|✅|
 |10|**<center>2022.02.25</center>** | 그리디 | <center>[[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV2/[1차]%20캐시/main.swift)* |❎|✅|
 |11|**<center>2022.02.26</center>** | 그리디 | <center>[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV2/N개의%20최소공배수/main.swift)* |❎|✅|
+|12|**<center>2022.04.07</center>** | 그리디 | <center>[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV2/점프와%20순간%20이동/main.swift)* |❎|✅|
 
 </details>
 
