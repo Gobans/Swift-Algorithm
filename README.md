@@ -120,6 +120,7 @@
 |24|**<center>2022.04.02</center>** | 그리디 | <center>[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/약수의%20개수와%20덧셈/main.swift)* |❎|✅|
 |25|**<center>2022.04.03</center>** | 그리디 | <center>[문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/문자열%20다루기%20기본/main.swift)* |❎|✅|
 |26|**<center>2022.04.04</center>** | 그리디 | <center>[행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/행렬의%20덧셈/main.swift)* |❎|✅|
+|27|**<center>2022.04.06</center>** | 그리디 | <center>[직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/직사각형%20별찍기/main.swift)* |❎|✅|
 </details>
 
 <details>

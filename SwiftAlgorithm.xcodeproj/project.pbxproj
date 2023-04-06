@@ -78,6 +78,7 @@
 		9179542929D48BFA00CF0B99 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9179542C29D48D2F00CF0B99 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9179543029D48E1B00CF0B99 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		91802A6E29DF86B800319D21 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91833407297820E400A0517C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		918363AD29DC73D700BB6323 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9183F698298CABA800A24C35 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -600,6 +601,15 @@
 			path = "없는 숫자 더하기";
 			sourceTree = "<group>";
 		};
+		91802A6D29DF86AB00319D21 /* 직사각형 별찍기 */ = {
+			isa = PBXGroup;
+			children = (
+				91802A6E29DF86B800319D21 /* main.swift */,
+			);
+			name = "직사각형 별찍기";
+			path = "직사각형 별찍기";
+			sourceTree = "<group>";
+		};
 		91833406297820D600A0517C /* 모음사전 */ = {
 			isa = PBXGroup;
 			children = (
@@ -898,6 +908,7 @@
 		91D6E0A429BB8541005BD4AD /* LV1 */ = {
 			isa = PBXGroup;
 			children = (
+				91802A6D29DF86AB00319D21 /* 직사각형 별찍기 */,
 				918363AC29DC73CB00BB6323 /* 행렬의 덧셈 */,
 				91DE26D029DBB50000B4F5DE /* 부족한 금액 계산하기 */,
 				913818A429DBADD600E64ED9 /* 문자열 다루기 기본 */,
