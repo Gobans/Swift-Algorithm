@@ -122,6 +122,7 @@
 |26|**<center>2022.04.04</center>** | 그리디 | <center>[행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/행렬의%20덧셈/main.swift)* |❎|✅|
 |27|**<center>2022.04.06</center>** | 그리디 | <center>[직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/직사각형%20별찍기/main.swift)* |❎|✅|
 |28|**<center>2022.04.08</center>** | 그리디 | <center>[최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/최대공약수와%20최소공배수/main.swift)* |❎|✅|
+|29|**<center>2022.04.12</center>** | 그리디 | <center>[3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/3진법%20뒤집기/main.swift)* |❎|✅|
 </details>
 
 <details>

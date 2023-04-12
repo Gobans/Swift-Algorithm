@@ -39,6 +39,7 @@
 		9113D46D299134B70068DAFA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9113D46F29913FBF0068DAFA /* EffectiveQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EffectiveQueue.swift; sourceTree = "<group>"; };
 		9115529E29630F4400BD06FA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		91175EBE29E7C88F00601190 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		911A199929796E7C00AEA1DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		911BC7A729CB301A00F2C2BB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9122632E29DB1E05007E2FEC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -206,6 +207,15 @@
 			);
 			name = "더 맵게";
 			path = "더 맵게";
+			sourceTree = "<group>";
+		};
+		91175EBD29E7C88400601190 /* 3진법 뒤집기 */ = {
+			isa = PBXGroup;
+			children = (
+				91175EBE29E7C88F00601190 /* main.swift */,
+			);
+			name = "3진법 뒤집기";
+			path = "3진법 뒤집기";
 			sourceTree = "<group>";
 		};
 		911A199829796E7300AEA1DA /* 체육복 */ = {
@@ -919,6 +929,7 @@
 		91D6E0A429BB8541005BD4AD /* LV1 */ = {
 			isa = PBXGroup;
 			children = (
+				91175EBD29E7C88400601190 /* 3진법 뒤집기 */,
 				91E0646129E1B54E00331D02 /* 최대공약수와 최소공배수 */,
 				91802A6D29DF86AB00319D21 /* 직사각형 별찍기 */,
 				918363AC29DC73CB00BB6323 /* 행렬의 덧셈 */,
