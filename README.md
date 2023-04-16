@@ -124,6 +124,7 @@
 |28|**<center>2022.04.08</center>** | 그리디 | <center>[최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/최대공약수와%20최소공배수/main.swift)* |❎|✅|
 |29|**<center>2022.04.12</center>** | 그리디 | <center>[3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/3진법%20뒤집기/main.swift)* |❎|✅|
 |30|**<center>2022.04.15</center>** | 그리디 | <center>[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/이상한%20문자%20만들기/main.swift)* |❎|✅|
+|31|**<center>2022.04.16</center>** | 그리디 | <center>[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/시저%20암호/main.swift)* |❎|✅|
 </details>
 
 <details>
