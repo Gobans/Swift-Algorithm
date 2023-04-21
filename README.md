@@ -127,6 +127,7 @@
 |31|**<center>2022.04.16</center>** | 그리디 | <center>[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/시저%20암호/main.swift)* |❎|✅|
 |32|**<center>2022.04.19</center>** | 그리디 | <center>[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/예산/main.swift)* |❎|✅|
 |33|**<center>2022.04.20</center>** | 그리디 | <center>[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/삼총사/main.swift)* |❎|✅|
+|34|**<center>2022.04.21</center>** | 그리디 | <center>[1차 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/1차%20비밀지도/main.swift)* |❎|✅|
 </details>
 
 <details>
