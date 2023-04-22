@@ -63,6 +63,7 @@
 		91408DE8296D8E16006A52E1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9141A8132985761B001ACA6D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9144F25C2983EDD70010E67C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9148E52329F408A10089F433 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		915373872974243C00885D95 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		915AEC4529C8980100F7AB3E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		915DA3FF29BCBA9F004C8AE7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -472,6 +473,15 @@
 			);
 			name = "N으로 표현";
 			path = "N으로 표현하기";
+			sourceTree = "<group>";
+		};
+		9148E52229F408960089F433 /* 문자열 내 마음대로 정렬하기 */ = {
+			isa = PBXGroup;
+			children = (
+				9148E52329F408A10089F433 /* main.swift */,
+			);
+			name = "문자열 내 마음대로 정렬하기";
+			path = "문자열 내 마음대로 정렬하기";
 			sourceTree = "<group>";
 		};
 		915373862974243000885D95 /* 피로도 */ = {
@@ -979,6 +989,7 @@
 		91D6E0A429BB8541005BD4AD /* LV1 */ = {
 			isa = PBXGroup;
 			children = (
+				9148E52229F408960089F433 /* 문자열 내 마음대로 정렬하기 */,
 				91B8DBB229F2BC44006FFA8F /* 1차 비밀지도 */,
 				918AAA6A29F161210041C495 /* 삼총사 */,
 				918AAA6629F15E640041C495 /* 예산 */,
