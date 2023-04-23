@@ -129,6 +129,7 @@
 |33|**<center>2022.04.20</center>** | 그리디 | <center>[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/삼총사/main.swift)* |❎|✅|
 |34|**<center>2022.04.21</center>** | 그리디 | <center>[1차 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/1차%20비밀지도/main.swift)* |❎|✅|
 |35|**<center>2022.04.22</center>** | 그리디 | <center>[문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/문자열%20내%20마음대로%20정렬하기/main.swift)* |❎|✅|
+|36|**<center>2022.04.23</center>** | 그리디 | <center>[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/숫자%20문자열과%20영단어/main.swift)* |❎|✅|
 </details>
 
 <details>

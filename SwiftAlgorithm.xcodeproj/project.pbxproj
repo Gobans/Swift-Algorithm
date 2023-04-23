@@ -69,6 +69,7 @@
 		915DA3FF29BCBA9F004C8AE7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		915DA40229BE11F9004C8AE7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9162686E298A169E00C83184 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9163C51329F58B16001E7403 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9164AA3A2975930000B2D70B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9168C5B229684B7B00F44817 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		917108A729C5C0B900060DE8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -527,6 +528,15 @@
 			);
 			name = "도둑질";
 			path = "도둑질";
+			sourceTree = "<group>";
+		};
+		9163C51229F58B0C001E7403 /* 숫자 문자열과 영단어 */ = {
+			isa = PBXGroup;
+			children = (
+				9163C51329F58B16001E7403 /* main.swift */,
+			);
+			name = "숫자 문자열과 영단어";
+			path = "숫자 문자열과 영단어";
 			sourceTree = "<group>";
 		};
 		9164AA39297592F200B2D70B /* 전력망을 둘로 나누기 */ = {
@@ -989,6 +999,7 @@
 		91D6E0A429BB8541005BD4AD /* LV1 */ = {
 			isa = PBXGroup;
 			children = (
+				9163C51229F58B0C001E7403 /* 숫자 문자열과 영단어 */,
 				9148E52229F408960089F433 /* 문자열 내 마음대로 정렬하기 */,
 				91B8DBB229F2BC44006FFA8F /* 1차 비밀지도 */,
 				918AAA6A29F161210041C495 /* 삼총사 */,
