@@ -9,7 +9,7 @@ import Foundation
 
 func solution(_ t:String, _ p:String) -> Int {
     let t = Array(t)
-    var sliceCnt = p.count - 1
+    let sliceCnt = p.count - 1
     var answer = 0
     for i in 0..<t.count {
         if i + sliceCnt >= t.count {
