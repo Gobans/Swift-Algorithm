@@ -17,6 +17,7 @@
 		91DEF9512993EED300A3EBA8 /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91DEF9502993EED300A3EBA8 /* LinkedList.swift */; };
 		91E46A06296443D4007B79DC /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A05296443D4007B79DC /* Heap.swift */; };
 		91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A0229644355007B79DC /* PriorityQueue.swift */; };
+		91F9A95629F9733300FC1561 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91F9A95529F9733300FC1561 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -150,6 +151,7 @@
 		91E4771029695C2A006DB848 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91F17516299E47BF00A98B48 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91F86C1E299CF0E400270725 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		91F9A95529F9733300FC1561 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91FC2357296C2410000F59FB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91FD7F8529B2296600C686AB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -1019,6 +1021,7 @@
 		91D6E0A429BB8541005BD4AD /* LV1 */ = {
 			isa = PBXGroup;
 			children = (
+				91F9A95429F9732600FC1561 /* 가장 가까운 같은 글자 */,
 				913D71AB29F76FE0007209F3 /* 두 개 뽑아서 더하기 */,
 				9171270929F6CD5200F56C35 /* 크기가 작은 부분 문자열 */,
 				9163C51229F58B0C001E7403 /* 숫자 문자열과 영단어 */,
@@ -1313,6 +1316,15 @@
 			path = "징검다리";
 			sourceTree = "<group>";
 		};
+		91F9A95429F9732600FC1561 /* 가장 가까운 같은 글자 */ = {
+			isa = PBXGroup;
+			children = (
+				91F9A95529F9733300FC1561 /* main.swift */,
+			);
+			name = "가장 가까운 같은 글자";
+			path = "가장 가까운 같은 글자";
+			sourceTree = "<group>";
+		};
 		91FC2356296C2401000F59FB /* 최소직사각형 */ = {
 			isa = PBXGroup;
 			children = (
@@ -1397,6 +1409,7 @@
 				91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */,
 				9106AE3C2994DFA800D1D0F2 /* DoublyLinkedList.swift in Sources */,
 				91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */,
+				91F9A95629F9733300FC1561 /* main.swift in Sources */,
 				91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */,
 				91B6EB5E2991F30300F4AE4E /* RingBufferQueue.swift in Sources */,
 				91246E572992099F00AFCCAC /* DoubleStackQueue.swift in Sources */,
