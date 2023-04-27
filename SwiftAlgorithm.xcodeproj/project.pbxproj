@@ -17,7 +17,6 @@
 		91DEF9512993EED300A3EBA8 /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91DEF9502993EED300A3EBA8 /* LinkedList.swift */; };
 		91E46A06296443D4007B79DC /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A05296443D4007B79DC /* Heap.swift */; };
 		91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E46A0229644355007B79DC /* PriorityQueue.swift */; };
-		91F9A95629F9733300FC1561 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91F9A95529F9733300FC1561 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -93,6 +92,7 @@
 		91852B55296EDFFA001EF1B4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91852B58296EEBD7001EF1B4 /* Combination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combination.swift; sourceTree = "<group>"; };
 		91852B5A296EF561001EF1B4 /* Permutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Permutation.swift; sourceTree = "<group>"; };
+		9186662029FA9206003F2448 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9186E8D2296A93770008DF6A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91882AA2297AA79D00F72ADB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		918AAA6729F15E6F0041C495 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -732,6 +732,15 @@
 			path = Method;
 			sourceTree = "<group>";
 		};
+		9186661F29FA91FE003F2448 /* 콜라 문제 */ = {
+			isa = PBXGroup;
+			children = (
+				9186662029FA9206003F2448 /* main.swift */,
+			);
+			name = "콜라 문제";
+			path = "콜라 문제";
+			sourceTree = "<group>";
+		};
 		9186E8D1296A936A0008DF6A /* H-Index */ = {
 			isa = PBXGroup;
 			children = (
@@ -1021,6 +1030,7 @@
 		91D6E0A429BB8541005BD4AD /* LV1 */ = {
 			isa = PBXGroup;
 			children = (
+				9186661F29FA91FE003F2448 /* 콜라 문제 */,
 				91F9A95429F9732600FC1561 /* 가장 가까운 같은 글자 */,
 				913D71AB29F76FE0007209F3 /* 두 개 뽑아서 더하기 */,
 				9171270929F6CD5200F56C35 /* 크기가 작은 부분 문자열 */,
@@ -1409,7 +1419,6 @@
 				91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */,
 				9106AE3C2994DFA800D1D0F2 /* DoublyLinkedList.swift in Sources */,
 				91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */,
-				91F9A95629F9733300FC1561 /* main.swift in Sources */,
 				91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */,
 				91B6EB5E2991F30300F4AE4E /* RingBufferQueue.swift in Sources */,
 				91246E572992099F00AFCCAC /* DoubleStackQueue.swift in Sources */,

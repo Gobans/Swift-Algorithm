@@ -132,7 +132,8 @@
 |36|**<center>2022.04.23</center>** | 그리디 | <center>[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/숫자%20문자열과%20영단어/main.swift)* |❎|✅|
 |37|**<center>2022.04.24</center>** | 그리디 | <center>[크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/크기가%20작은%20부분%20문자열/main.swift)* |❎|✅|
 |38|**<center>2022.04.25</center>** | 그리디 | <center>[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644/solution_groups?language=swift) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/두%20개%20뽑아서%20더하기/main.swift)* |❎|✅|
-|38|**<center>2022.04.26</center>** | 그리디 | <center>[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086#) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/가장%20가까운%20같은%20글자/main.swift)* |❎|✅|
+|38|**<center>2022.04.26</center>** | 그리디 | <center>[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/가장%20가까운%20같은%20글자/main.swift)* |❎|✅|
+|38|**<center>2022.04.27</center>** | 그리디 | <center>[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/콜라%20문제/main.swift)* |❎|✅|
 </details>
 
 <details>
