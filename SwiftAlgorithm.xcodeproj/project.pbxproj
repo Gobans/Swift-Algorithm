@@ -44,6 +44,7 @@
 		911BC7A729CB301A00F2C2BB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9122632E29DB1E05007E2FEC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91246E562992099F00AFCCAC /* DoubleStackQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoubleStackQueue.swift; sourceTree = "<group>"; };
+		9124DD6829FBF11B003FD660 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		912C111329B07DBA00BB77C4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		912C111629B0851F00BB77C4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		912C111929B0CFCE00BB77C4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -254,6 +255,15 @@
 			);
 			name = "문자열 내림차순으로 배치하기";
 			path = "문자열 내림차순으로 배치하기";
+			sourceTree = "<group>";
+		};
+		9124DD6729FBF112003FD660 /* 푸드 파이트 대회 */ = {
+			isa = PBXGroup;
+			children = (
+				9124DD6829FBF11B003FD660 /* main.swift */,
+			);
+			name = "푸드 파이트 대회";
+			path = "푸드 파이트 대회";
 			sourceTree = "<group>";
 		};
 		912C111229B07DAB00BB77C4 /* 불량 사용자 */ = {
@@ -1030,6 +1040,7 @@
 		91D6E0A429BB8541005BD4AD /* LV1 */ = {
 			isa = PBXGroup;
 			children = (
+				9124DD6729FBF112003FD660 /* 푸드 파이트 대회 */,
 				9186661F29FA91FE003F2448 /* 콜라 문제 */,
 				91F9A95429F9732600FC1561 /* 가장 가까운 같은 글자 */,
 				913D71AB29F76FE0007209F3 /* 두 개 뽑아서 더하기 */,

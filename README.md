@@ -134,6 +134,7 @@
 |38|**<center>2022.04.25</center>** | 그리디 | <center>[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644/solution_groups?language=swift) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/두%20개%20뽑아서%20더하기/main.swift)* |❎|✅|
 |38|**<center>2022.04.26</center>** | 그리디 | <center>[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/가장%20가까운%20같은%20글자/main.swift)* |❎|✅|
 |38|**<center>2022.04.27</center>** | 그리디 | <center>[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/콜라%20문제/main.swift)* |❎|✅|
+|39|**<center>2022.04.28</center>** | 그리디 | <center>[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/푸드%20파이트%20대회/main.swift)* |❎|✅|
 </details>
 
 <details>
