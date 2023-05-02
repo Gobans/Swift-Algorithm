@@ -137,6 +137,7 @@
 |39|**<center>2022.04.28</center>** | 그리디 | <center>[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/푸드%20파이트%20대회/main.swift)* |❎|✅|
 |40|**<center>2022.04.29</center>** | 그리디 | <center>[2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/2016년/main.swift)* |❎|✅|
 |41|**<center>2022.04.30</center>** | 그리디 | <center>[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/추억%20점수/main.swift)* |❎|✅|
+|42|**<center>2022.05.01</center>** | 그리디 | <center>[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/소수%20찾기/main.swift)* |❎|✅|
 </details>
 
 <details>
