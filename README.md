@@ -138,6 +138,7 @@
 |40|**<center>2022.04.29</center>** | 그리디 | <center>[2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/2016년/main.swift)* |❎|✅|
 |41|**<center>2022.04.30</center>** | 그리디 | <center>[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/추억%20점수/main.swift)* |❎|✅|
 |42|**<center>2022.05.01</center>** | 그리디 | <center>[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/소수%20찾기/main.swift)* |❎|✅|
+|43|**<center>2022.05.03</center>** | 그리디 | <center>[소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/소수%20만들기/main.swift)* |❎|✅|
 </details>
 
 <details>
