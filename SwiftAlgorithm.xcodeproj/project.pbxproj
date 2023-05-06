@@ -12,6 +12,7 @@
 		91246E572992099F00AFCCAC /* DoubleStackQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91246E562992099F00AFCCAC /* DoubleStackQueue.swift */; };
 		91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B58296EEBD7001EF1B4 /* Combination.swift */; };
 		91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B5A296EF561001EF1B4 /* Permutation.swift */; };
+		9195095F2A06B3D900CDE757 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9195095E2A06B3D900CDE757 /* main.swift */; };
 		91B6EB5A2991E83900F4AE4E /* LinkedQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B6EB592991E83900F4AE4E /* LinkedQueue.swift */; };
 		91B6EB5E2991F30300F4AE4E /* RingBufferQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B6EB5D2991F30300F4AE4E /* RingBufferQueue.swift */; };
 		91DEF9512993EED300A3EBA8 /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91DEF9502993EED300A3EBA8 /* LinkedList.swift */; };
@@ -101,6 +102,7 @@
 		918AAA6729F15E6F0041C495 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		918AAA6B29F161290041C495 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		918AE9512A03C44800B49ECA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9195095E2A06B3D900CDE757 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91969E2D2A053C4D00A9E6C6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9196EA0729ADDAC600E424A7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9196EA0A29ADFD1D00E424A7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -819,6 +821,15 @@
 			path = "명예의 전당(1)";
 			sourceTree = "<group>";
 		};
+		9195095D2A06B3D200CDE757 /* 실패율 */ = {
+			isa = PBXGroup;
+			children = (
+				9195095E2A06B3D900CDE757 /* main.swift */,
+			);
+			name = "실패율";
+			path = "실패율";
+			sourceTree = "<group>";
+		};
 		91969E2C2A053C4200A9E6C6 /* 과일 장수 */ = {
 			isa = PBXGroup;
 			children = (
@@ -1091,6 +1102,7 @@
 		91D6E0A429BB8541005BD4AD /* LV1 */ = {
 			isa = PBXGroup;
 			children = (
+				9195095D2A06B3D200CDE757 /* 실패율 */,
 				91969E2C2A053C4200A9E6C6 /* 과일 장수 */,
 				918AE9502A03C43E00B49ECA /* 명예의 전당1 */,
 				916A4A552A029C8900AD3EA4 /* 소수 만들기 */,
@@ -1496,6 +1508,7 @@
 				91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */,
 				9106AE3C2994DFA800D1D0F2 /* DoublyLinkedList.swift in Sources */,
 				91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */,
+				9195095F2A06B3D900CDE757 /* main.swift in Sources */,
 				91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */,
 				91B6EB5E2991F30300F4AE4E /* RingBufferQueue.swift in Sources */,
 				91246E572992099F00AFCCAC /* DoubleStackQueue.swift in Sources */,
