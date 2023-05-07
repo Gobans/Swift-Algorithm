@@ -142,6 +142,7 @@
 |44|**<center>2022.05.04</center>** | 그리디 | <center>[명예의 전당1](https://school.programmers.co.kr/learn/courses/30/lessons/138477) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/명예의%20전당1/main.swift)* |❎|✅|
 |45|**<center>2022.05.05</center>** | 그리디 | <center>[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/과일%20장수/main.swift)* |❎|✅|
 |46|**<center>2022.05.06</center>** | 그리디 | <center>[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/실패율/main.swift)* |❎|✅|
+|47|**<center>2022.05.07</center>** | 그리디 | <center>[다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/다트%20게임/main.swift)* |❎|✅|
 </details>
 
 <details>
