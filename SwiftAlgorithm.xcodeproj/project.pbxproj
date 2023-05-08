@@ -34,6 +34,7 @@
 /* Begin PBXFileReference section */
 		9103468429B8CC1F005ED840 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91044A542A0A9021006E2368 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		91044A572A0A92FA006E2368 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9106AE3B2994DFA800D1D0F2 /* DoublyLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoublyLinkedList.swift; sourceTree = "<group>"; };
 		91111E1029A6486600B065B1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91111E1429A64EB800B065B1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -193,6 +194,15 @@
 			);
 			name = "카드 뭉치";
 			path = "카드뭉치";
+			sourceTree = "<group>";
+		};
+		91044A562A0A92F3006E2368 /* 덧칠하기 */ = {
+			isa = PBXGroup;
+			children = (
+				91044A572A0A92FA006E2368 /* main.swift */,
+			);
+			name = "덧칠하기";
+			path = "덧칠하기";
 			sourceTree = "<group>";
 		};
 		91111E0F29A6485900B065B1 /* 방의 개수 */ = {
@@ -1121,6 +1131,7 @@
 		91D6E0A429BB8541005BD4AD /* LV1 */ = {
 			isa = PBXGroup;
 			children = (
+				91044A562A0A92F3006E2368 /* 덧칠하기 */,
 				91044A532A0A9016006E2368 /* 카드 뭉치 */,
 				917852962A07877500D33D38 /* 다트 게임 */,
 				9195095D2A06B3D200CDE757 /* 실패율 */,
