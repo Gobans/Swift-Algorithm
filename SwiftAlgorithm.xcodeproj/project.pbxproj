@@ -112,6 +112,7 @@
 		919C44ED29EC4368004634E6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		919C44F029EC4678004634E6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91A16DDD299B61240002C7C9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		91A638382A0D2A7E0041E070 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91AD971929726F9100C82AB1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91ADDDED29892BB30051AEC6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91B01A0029C9833600991154 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -939,6 +940,15 @@
 			path = "입국심사";
 			sourceTree = "<group>";
 		};
+		91A638372A0D2A700041E070 /* 로또의 최고 순위와 최저 순위 */ = {
+			isa = PBXGroup;
+			children = (
+				91A638382A0D2A7E0041E070 /* main.swift */,
+			);
+			name = "로또의 최고 순위와 최저 순위";
+			path = "로또의 최고 순위와 최저 순위";
+			sourceTree = "<group>";
+		};
 		91AD971729726F7000C82AB1 /* BOJ */ = {
 			isa = PBXGroup;
 			children = (
@@ -1131,6 +1141,7 @@
 		91D6E0A429BB8541005BD4AD /* LV1 */ = {
 			isa = PBXGroup;
 			children = (
+				91A638372A0D2A700041E070 /* 로또의 최고 순위와 최저 순위 */,
 				91044A562A0A92F3006E2368 /* 덧칠하기 */,
 				91044A532A0A9016006E2368 /* 카드 뭉치 */,
 				917852962A07877500D33D38 /* 다트 게임 */,
