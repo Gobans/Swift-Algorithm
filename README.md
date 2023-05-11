@@ -146,6 +146,7 @@
 |48|**<center>2022.05.08</center>** | 그리디 | <center>[카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/카드%20뭉치/main.swift)* |❎|✅|
 |49|**<center>2022.05.09</center>** | 그리디 | <center>[덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/덧칠하기/main.swift)* |❎|✅|
 |50|**<center>2022.05.10</center>** | 그리디 | <center>[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484#) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/로또의%20최고%20순위와%20최저%20순위/main.swift)* |❎|✅|
+|51|**<center>2022.05.10</center>** | 그리디 | <center>[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) </center>|*[Code](https://github.com/Gobans/Swift-Algorithm/blob/main/SwiftAlgorithm/Programmers/LV1/기사단원의%20무기/main.swift)* |❎|✅|
 </details>
 
 <details>
