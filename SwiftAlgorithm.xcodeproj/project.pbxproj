@@ -9,10 +9,10 @@
 /* Begin PBXBuildFile section */
 		9106AE3C2994DFA800D1D0F2 /* DoublyLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9106AE3B2994DFA800D1D0F2 /* DoublyLinkedList.swift */; };
 		9113D47029913FBF0068DAFA /* EffectiveQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9113D46F29913FBF0068DAFA /* EffectiveQueue.swift */; };
+		911D40E32A0E73B800171550 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 911D40E22A0E73B800171550 /* main.swift */; };
 		91246E572992099F00AFCCAC /* DoubleStackQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91246E562992099F00AFCCAC /* DoubleStackQueue.swift */; };
 		91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B58296EEBD7001EF1B4 /* Combination.swift */; };
 		91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91852B5A296EF561001EF1B4 /* Permutation.swift */; };
-		91A6383C2A0D31500041E070 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A6383B2A0D31500041E070 /* main.swift */; };
 		91B6EB5A2991E83900F4AE4E /* LinkedQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B6EB592991E83900F4AE4E /* LinkedQueue.swift */; };
 		91B6EB5E2991F30300F4AE4E /* RingBufferQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B6EB5D2991F30300F4AE4E /* RingBufferQueue.swift */; };
 		91DEF9512993EED300A3EBA8 /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91DEF9502993EED300A3EBA8 /* LinkedList.swift */; };
@@ -45,6 +45,7 @@
 		91175EBE29E7C88F00601190 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		911A199929796E7C00AEA1DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		911BC7A729CB301A00F2C2BB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		911D40E22A0E73B800171550 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		911EE72A29FE9E7F00CE5E3F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9122632E29DB1E05007E2FEC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		91246E562992099F00AFCCAC /* DoubleStackQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoubleStackQueue.swift; sourceTree = "<group>"; };
@@ -277,6 +278,15 @@
 			);
 			name = "자물쇠와 열쇠";
 			path = "자물쇠와 열쇠";
+			sourceTree = "<group>";
+		};
+		911D40E12A0E73B000171550 /* 숫자 짝꿍 */ = {
+			isa = PBXGroup;
+			children = (
+				911D40E22A0E73B800171550 /* main.swift */,
+			);
+			name = "숫자 짝꿍";
+			path = "숫자 짝꿍";
 			sourceTree = "<group>";
 		};
 		911EE72929FE9E7800CE5E3F /* 추억 점수 */ = {
@@ -1152,6 +1162,7 @@
 		91D6E0A429BB8541005BD4AD /* LV1 */ = {
 			isa = PBXGroup;
 			children = (
+				911D40E12A0E73B000171550 /* 숫자 짝꿍 */,
 				91A6383A2A0D31470041E070 /* 기사단원의 무기 */,
 				91A638372A0D2A700041E070 /* 로또의 최고 순위와 최저 순위 */,
 				91044A562A0A92F3006E2368 /* 덧칠하기 */,
@@ -1558,12 +1569,12 @@
 			files = (
 				91DEF9512993EED300A3EBA8 /* LinkedList.swift in Sources */,
 				91B6EB5A2991E83900F4AE4E /* LinkedQueue.swift in Sources */,
+				911D40E32A0E73B800171550 /* main.swift in Sources */,
 				91E46A06296443D4007B79DC /* Heap.swift in Sources */,
 				9113D47029913FBF0068DAFA /* EffectiveQueue.swift in Sources */,
 				91E46A07296454A3007B79DC /* PriorityQueue.swift in Sources */,
 				9106AE3C2994DFA800D1D0F2 /* DoublyLinkedList.swift in Sources */,
 				91852B5B296EF561001EF1B4 /* Permutation.swift in Sources */,
-				91A6383C2A0D31500041E070 /* main.swift in Sources */,
 				91852B59296EEBD7001EF1B4 /* Combination.swift in Sources */,
 				91B6EB5E2991F30300F4AE4E /* RingBufferQueue.swift in Sources */,
 				91246E572992099F00AFCCAC /* DoubleStackQueue.swift in Sources */,
